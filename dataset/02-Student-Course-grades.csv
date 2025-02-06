@@ -1,0 +1,1777 @@
+USER_ID|STUDENT_ID|FIRSTNAME|LASTNAME|TITLE|POSSIBLE|SCORE|POSITION|ATTEMPT_DATE
+mhernandez1|90000030|Mary|Hernandez|74||8|
+mhernandez1|90000030|Mary|Hernandez|100|100.00000|7|2025-01-21 14:29:15
+mhernandez1|90000030|Mary|Hernandez|100||6|
+erodriguez1|90000028|Evelyn|Rodriguez|74||8|
+erodriguez1|90000028|Evelyn|Rodriguez|100|95.00000|7|2024-09-12 12:00:41
+erodriguez1|90000028|Evelyn|Rodriguez|100||6|
+bwilson1|90000033|Barbara|Wilson|74||8|
+bwilson1|90000033|Barbara|Wilson|100|90.00000|7|2025-01-22 16:30:43
+bwilson1|90000033|Barbara|Wilson|100||6|
+wanderson1|90000334|William|Anderson|74||8|
+wanderson1|90000334|William|Anderson|100|90.00000|7|2025-01-24 21:39:50
+wanderson1|90000334|William|Anderson|100||6|
+erodriguez1|90000148|Evelyn|Rodriguez|74||8|
+erodriguez1|90000148|Evelyn|Rodriguez|100|95.00000|7|2024-08-23 17:01:14
+erodriguez1|90000148|Evelyn|Rodriguez|100||6|
+rgonzales1|90000172|Robert|Gonzales|74||8|
+rgonzales1|90000172|Robert|Gonzales|100|100.00000|7|2025-01-25 12:44:48
+rgonzales1|90000172|Robert|Gonzales|100||6|
+jthomas1|90000315|Jennifer|Thomas|74||8|
+jthomas1|90000315|Jennifer|Thomas|100|90.00000|7|2024-09-09 20:56:04
+jthomas1|90000315|Jennifer|Thomas|100||6|
+mgarcia1|90000285|Mateo|Garcia|74||8|
+mgarcia1|90000285|Mateo|Garcia|100|100.00000|7|2025-01-27 17:04:30
+mgarcia1|90000285|Mateo|Garcia|100||6|
+tmiller1|90000486|Theodore|Miller|74||8|
+tmiller1|90000486|Theodore|Miller|100|90.00000|7|2024-08-28 15:06:27
+tmiller1|90000486|Theodore|Miller|100||6|
+lrodriguez1|90000088|Lucas|Rodriguez|74||8|
+lrodriguez1|90000088|Lucas|Rodriguez|100|95.00000|7|2021-12-21 10:23:07
+lrodriguez1|90000088|Lucas|Rodriguez|100|90.00000|6|2023-01-19 16:21:28
+lsmith1|90000440|Liam|Smith|74||8|
+lsmith1|90000440|Liam|Smith|100|95.00000|7|2024-09-01 11:57:06
+lsmith1|90000440|Liam|Smith|100||6|
+hdavis1|90000247|Henry|Davis|74||8|
+hdavis1|90000247|Henry|Davis|100|90.00000|7|2023-09-04 14:57:44
+hdavis1|90000247|Henry|Davis|100||6|
+njohnson1|90000521|Noah|Johnson|74||8|
+njohnson1|90000521|Noah|Johnson|100|100.00000|7|2025-01-26 17:27:38
+njohnson1|90000521|Noah|Johnson|100||6|
+adavis1|90000267|Ava|Davis|74||8|
+adavis1|90000267|Ava|Davis|100||7|
+adavis1|90000267|Ava|Davis|100||6|
+mhernandez1|90000390|Mary|Hernandez|74||8|
+mhernandez1|90000390|Mary|Hernandez|100|95.00000|7|2025-01-22 16:45:48
+mhernandez1|90000390|Mary|Hernandez|100||6|
+cwilliams1|90000502|Charlotte|Williams|74||8|
+cwilliams1|90000502|Charlotte|Williams|100|90.00000|7|2024-08-29 15:20:29
+cwilliams1|90000502|Charlotte|Williams|100||6|
+lsmith1|90000080|Liam|Smith|74||8|
+lsmith1|90000080|Liam|Smith|100|100.00000|7|2024-08-27 11:41:35
+lsmith1|90000080|Liam|Smith|100||6|
+njohnson1|90000081|Noah|Johnson|74||8|
+njohnson1|90000081|Noah|Johnson|100|90.00000|7|2024-01-19 23:08:12
+njohnson1|90000081|Noah|Johnson|100||6|
+jbrown1|90000243|James|Brown|74||8|
+jbrown1|90000243|James|Brown|100|95.00000|7|2025-01-25 19:53:04
+jbrown1|90000243|James|Brown|100||6|
+abrown1|90000583|Amelia|Brown|74||8|
+abrown1|90000583|Amelia|Brown|100|85.00000|7|2025-01-26 15:15:53
+abrown1|90000583|Amelia|Brown|100||6|
+mtaylor1|90000156|Maria|Taylor|74||8|
+mtaylor1|90000156|Maria|Taylor|100|90.00000|7|2025-01-24 14:57:09
+mtaylor1|90000156|Maria|Taylor|100||6|
+jthomas1|90000115|Jennifer|Thomas|74||8|
+jthomas1|90000115|Jennifer|Thomas|100|100.00000|7|2024-08-28 16:03:36
+jthomas1|90000115|Jennifer|Thomas|100|80.00000|6|2023-01-30 15:01:01
+mgarcia1|90000585|Mia|Garcia|74||8|
+mgarcia1|90000585|Mia|Garcia|100|95.00000|7|2025-01-26 13:31:43
+mgarcia1|90000585|Mia|Garcia|100||6|
+rtaylor1|90000456|Richard|Taylor|74||8|
+rtaylor1|90000456|Richard|Taylor|100|90.00000|7|2024-09-03 23:24:51
+rtaylor1|90000456|Richard|Taylor|100||6|
+jhernandez1|90000370|James|Hernandez|74||8|
+jhernandez1|90000370|James|Hernandez|100|100.00000|7|2024-01-19 16:01:09
+jhernandez1|90000370|James|Hernandez|100||6|
+imiller1|90000306|Isabella|Miller|74||8|
+imiller1|90000306|Isabella|Miller|100|95.00000|7|2025-01-26 21:22:16
+imiller1|90000306|Isabella|Miller|100||6|
+eanderson1|90000514|Elizabeth|Anderson|74||8|
+eanderson1|90000514|Elizabeth|Anderson|100|90.00000|7|2025-01-27 12:39:30
+eanderson1|90000514|Elizabeth|Anderson|100||6|
+bwilson1|90000473|Barbara|Wilson|74||8|
+bwilson1|90000473|Barbara|Wilson|100|100.00000|7|2024-09-09 17:12:31
+bwilson1|90000473|Barbara|Wilson|100||6|
+lrodriguez1|90000528|Lucas|Rodriguez|74||8|
+lrodriguez1|90000528|Lucas|Rodriguez|100|90.00000|7|2024-09-05 12:33:23
+lrodriguez1|90000528|Lucas|Rodriguez|100||6|
+owilliams1|90000362|Oliver|Williams|74||8|
+owilliams1|90000362|Oliver|Williams|100|100.00000|7|2024-01-19 12:50:23
+owilliams1|90000362|Oliver|Williams|100||6|
+jthomas1|90000475|Jennifer|Thomas|74||8|
+jthomas1|90000475|Jennifer|Thomas|100|100.00000|7|2024-08-25 15:06:53
+jthomas1|90000475|Jennifer|Thomas|100||6|
+wanderson1|90000054|William|Anderson|74||8|
+wanderson1|90000054|William|Anderson|100|90.00000|7|2021-08-26 16:11:00
+wanderson1|90000054|William|Anderson|100||6|
+njohnson1|90000361|Noah|Johnson|74||8|
+njohnson1|90000361|Noah|Johnson|100|95.00000|7|2024-08-27 13:21:48
+njohnson1|90000361|Noah|Johnson|100||6|
+dmartin1|90000439|Dorothy|Martin|74||8|
+dmartin1|90000439|Dorothy|Martin|100|90.00000|7|2025-01-27 20:56:49
+dmartin1|90000439|Dorothy|Martin|100||6|
+wmartinez1|90000489|William|Martinez|74||8|
+wmartinez1|90000489|William|Martinez|100|95.00000|7|2024-09-03 11:28:25
+wmartinez1|90000489|William|Martinez|100||6|
+eanderson1|90000314|Elizabeth|Anderson|74||8|
+eanderson1|90000314|Elizabeth|Anderson|100|95.00000|7|2025-01-28 16:27:20
+eanderson1|90000314|Elizabeth|Anderson|100||6|
+lmartinez1|90000269|Luna|Martinez|74||8|
+lmartinez1|90000269|Luna|Martinez|100|90.00000|7|2023-01-30 18:16:51
+lmartinez1|90000269|Luna|Martinez|100|90.00000|6|2023-01-30 17:57:48
+eanderson1|90000234|Elizabeth|Anderson|74||8|
+eanderson1|90000234|Elizabeth|Anderson|100|90.00000|7|2022-08-31 09:23:17
+eanderson1|90000234|Elizabeth|Anderson|100||6|
+smoore1|90000477|Susan|Moore|74||8|
+smoore1|90000477|Susan|Moore|100|100.00000|7|2025-01-22 15:12:28
+smoore1|90000477|Susan|Moore|100||6|
+jthomas1|90000195|Jennifer|Thomas|74||8|
+jthomas1|90000195|Jennifer|Thomas|100|90.00000|7|2025-01-23 18:04:50
+jthomas1|90000195|Jennifer|Thomas|100||6|
+rgonzales1|90000452|Robert|Gonzales|74||8|
+rgonzales1|90000452|Robert|Gonzales|100|90.00000|7|2024-08-27 09:50:23
+rgonzales1|90000452|Robert|Gonzales|100||6|
+jlopez1|90000491|John|Lopez|74||8|
+jlopez1|90000491|John|Lopez|100|90.00000|7|2024-09-04 15:23:17
+jlopez1|90000491|John|Lopez|100||6|
+tmartin1|90000499|Thomas|Martin|74||8|
+tmartin1|90000499|Thomas|Martin|100|90.00000|7|2024-09-07 15:07:55
+tmartin1|90000499|Thomas|Martin|100||6|
+rgonzales1|90000292|Robert|Gonzales|74||8|
+rgonzales1|90000292|Robert|Gonzales|100|95.00000|7|2025-01-23 13:51:27
+rgonzales1|90000292|Robert|Gonzales|100||6|
+jhernandez1|90000530|James|Hernandez|74||8|
+jhernandez1|90000530|James|Hernandez|100|100.00000|7|2024-08-27 14:53:29
+jhernandez1|90000530|James|Hernandez|100||6|
+mwilson1|90000253|Michael|Wilson|74||8|
+mwilson1|90000253|Michael|Wilson|100|100.00000|7|2025-01-22 23:53:46
+mwilson1|90000253|Michael|Wilson|100||6|
+lgonzales1|90000552|Linda|Gonzales|74||8|
+lgonzales1|90000552|Linda|Gonzales|100|95.00000|7|2025-01-22 17:21:39
+lgonzales1|90000552|Linda|Gonzales|100||6|
+plopez1|90000591|Patricia|Lopez|74||8|
+plopez1|90000591|Patricia|Lopez|100|95.00000|7|2025-01-26 10:41:56
+plopez1|90000591|Patricia|Lopez|100||6|
+mhernandez1|90000590|Mary|Hernandez|74|70.00000|8|2025-01-19 21:38:34
+mhernandez1|90000590|Mary|Hernandez|100|95.00000|7|2025-01-19 21:27:35
+mhernandez1|90000590|Mary|Hernandez|100||6|
+adavis1|90000587|Ava|Davis|74||8|
+adavis1|90000587|Ava|Davis|100||7|
+adavis1|90000587|Ava|Davis|100||6|
+imiller1|90000586|Isabella|Miller|74||8|
+imiller1|90000586|Isabella|Miller|100|90.00000|7|2025-01-29 10:41:25
+imiller1|90000586|Isabella|Miller|100||6|
+cwilliams1|90000582|Charlotte|Williams|74||8|
+cwilliams1|90000582|Charlotte|Williams|100|90.00000|7|2025-01-23 11:39:12
+cwilliams1|90000582|Charlotte|Williams|100||6|
+osmith1|90000580|Olivia|Smith|74||8|
+osmith1|90000580|Olivia|Smith|100|95.00000|7|2025-01-21 15:22:22
+osmith1|90000580|Olivia|Smith|100||6|
+tmartin1|90000579|Thomas|Martin|74||8|
+tmartin1|90000579|Thomas|Martin|100|95.00000|7|2025-01-26 14:32:40
+tmartin1|90000579|Thomas|Martin|100||6|
+jjackson1|90000578|Joseph|Jackson|74||8|
+jjackson1|90000578|Joseph|Jackson|100|100.00000|7|2025-01-22 14:54:12
+jjackson1|90000578|Joseph|Jackson|100||6|
+rtaylor1|90000576|Richard|Taylor|74||8|
+rtaylor1|90000576|Richard|Taylor|100|95.00000|7|2025-01-26 22:10:46
+rtaylor1|90000576|Richard|Taylor|100||6|
+mwilson1|90000573|Michael|Wilson|74||8|
+mwilson1|90000573|Michael|Wilson|100|100.00000|7|2024-09-01 23:10:25
+mwilson1|90000573|Michael|Wilson|100||6|
+jhernandez1|90000570|James|Hernandez|74||8|
+jhernandez1|90000570|James|Hernandez|100|90.00000|7|2024-09-05 17:25:15
+jhernandez1|90000570|James|Hernandez|100||6|
+rgonzales1|90000572|Robert|Gonzales|74||8|
+rgonzales1|90000572|Robert|Gonzales|100|85.00000|7|2025-01-29 13:55:52
+rgonzales1|90000572|Robert|Gonzales|100||6|
+wmartinez1|90000569|William|Martinez|74||8|
+wmartinez1|90000569|William|Martinez|100|95.00000|7|2025-01-21 19:48:42
+wmartinez1|90000569|William|Martinez|100||6|
+lrodriguez1|90000568|Lucas|Rodriguez|74||8|
+lrodriguez1|90000568|Lucas|Rodriguez|100|95.00000|7|2024-08-27 13:05:46
+lrodriguez1|90000568|Lucas|Rodriguez|100||6|
+hdavis1|90000567|Henry|Davis|74||8|
+hdavis1|90000567|Henry|Davis|100||7|
+hdavis1|90000567|Henry|Davis|100||6|
+mgarcia1|90000565|Mateo|Garcia|74||8|
+mgarcia1|90000565|Mateo|Garcia|100|100.00000|7|2025-01-19 22:22:10
+mgarcia1|90000565|Mateo|Garcia|100||6|
+jbrown1|90000563|James|Brown|74||8|
+jbrown1|90000563|James|Brown|100|90.00000|7|2024-09-06 00:03:19
+jbrown1|90000563|James|Brown|100||6|
+owilliams1|90000562|Oliver|Williams|74||8|
+owilliams1|90000562|Oliver|Williams|100||7|
+owilliams1|90000562|Oliver|Williams|100||6|
+njohnson1|90000561|Noah|Johnson|74||8|
+njohnson1|90000561|Noah|Johnson|100|100.00000|7|2025-01-25 19:41:00
+njohnson1|90000561|Noah|Johnson|100||6|
+lsmith1|90000560|Liam|Smith|74||8|
+lsmith1|90000560|Liam|Smith|100|90.00000|7|2025-01-22 15:26:09
+lsmith1|90000560|Liam|Smith|100||6|
+smoore1|90000557|Susan|Moore|74||8|
+smoore1|90000557|Susan|Moore|100|100.00000|7|2025-01-26 20:54:53
+smoore1|90000557|Susan|Moore|100||6|
+dmartin1|90000559|Dorothy|Martin|74||8|
+dmartin1|90000559|Dorothy|Martin|100|95.00000|7|2024-09-02 23:19:53
+dmartin1|90000559|Dorothy|Martin|100||6|
+mtaylor1|90000556|Maria|Taylor|74||8|
+mtaylor1|90000556|Maria|Taylor|100|95.00000|7|2024-08-29 22:11:28
+mtaylor1|90000556|Maria|Taylor|100||6|
+bwilson1|90000553|Barbara|Wilson|74||8|
+bwilson1|90000553|Barbara|Wilson|100|90.00000|7|2025-01-21 19:38:49
+bwilson1|90000553|Barbara|Wilson|100||6|
+eanderson1|90000554|Elizabeth|Anderson|74||8|
+eanderson1|90000554|Elizabeth|Anderson|100|95.00000|7|2025-01-26 10:48:31
+eanderson1|90000554|Elizabeth|Anderson|100||6|
+erodriguez1|90000548|Evelyn|Rodriguez|74||8|
+erodriguez1|90000548|Evelyn|Rodriguez|100|90.00000|7|2024-08-27 13:32:10
+erodriguez1|90000548|Evelyn|Rodriguez|100||6|
+lmartinez1|90000549|Luna|Martinez|74||8|
+lmartinez1|90000549|Luna|Martinez|100|95.00000|7|2025-01-26 15:33:53
+lmartinez1|90000549|Luna|Martinez|100||6|
+imiller1|90000546|Isabella|Miller|74||8|
+imiller1|90000546|Isabella|Miller|100|100.00000|7|2024-08-27 18:09:05
+imiller1|90000546|Isabella|Miller|100||6|
+mhernandez1|90000550|Mary|Hernandez|74||8|
+mhernandez1|90000550|Mary|Hernandez|100||7|
+mhernandez1|90000550|Mary|Hernandez|100||6|
+mgarcia1|90000545|Mia|Garcia|74||8|
+mgarcia1|90000545|Mia|Garcia|100|90.00000|7|2024-08-29 18:55:09
+mgarcia1|90000545|Mia|Garcia|100||6|
+sjones1|90000544|Sophia|Jones|74||8|
+sjones1|90000544|Sophia|Jones|100|95.00000|7|2024-08-27 12:40:09
+sjones1|90000544|Sophia|Jones|100||6|
+tmartin1|90000539|Thomas|Martin|74||8|
+tmartin1|90000539|Thomas|Martin|100||7|
+tmartin1|90000539|Thomas|Martin|100||6|
+cwilliams1|90000542|Charlotte|Williams|74||8|
+cwilliams1|90000542|Charlotte|Williams|100|90.00000|7|2025-01-22 17:44:31
+cwilliams1|90000542|Charlotte|Williams|100||6|
+abrown1|90000543|Amelia|Brown|74||8|
+abrown1|90000543|Amelia|Brown|100|90.00000|7|2024-08-27 20:25:39
+abrown1|90000543|Amelia|Brown|100||6|
+ejohnson1|90000541|Emma|Johnson|74||8|
+ejohnson1|90000541|Emma|Johnson|100|90.00000|7|2025-01-28 20:10:58
+ejohnson1|90000541|Emma|Johnson|100||6|
+rtaylor1|90000536|Richard|Taylor|74||8|
+rtaylor1|90000536|Richard|Taylor|100||7|
+rtaylor1|90000536|Richard|Taylor|100||6|
+jjackson1|90000538|Joseph|Jackson|74||8|
+jjackson1|90000538|Joseph|Jackson|100|95.00000|7|2025-01-27 13:37:47
+jjackson1|90000538|Joseph|Jackson|100||6|
+rgonzales1|90000532|Robert|Gonzales|74||8|
+rgonzales1|90000532|Robert|Gonzales|100|95.00000|7|2025-01-22 12:12:32
+rgonzales1|90000532|Robert|Gonzales|100||6|
+jlopez1|90000531|John|Lopez|74||8|
+jlopez1|90000531|John|Lopez|100|95.00000|7|2024-09-12 12:09:55
+jlopez1|90000531|John|Lopez|100||6|
+tmiller1|90000526|Theodore|Miller|74||8|
+tmiller1|90000526|Theodore|Miller|100|90.00000|7|2024-08-29 18:52:00
+tmiller1|90000526|Theodore|Miller|100||6|
+jbrown1|90000523|James|Brown|74||8|
+jbrown1|90000523|James|Brown|100|90.00000|7|2025-01-20 18:02:30
+jbrown1|90000523|James|Brown|100||6|
+lsmith1|90000520|Liam|Smith|74||8|
+lsmith1|90000520|Liam|Smith|100|95.00000|7|2024-08-27 14:26:51
+lsmith1|90000520|Liam|Smith|100||6|
+dmartin1|90000519|Dorothy|Martin|74||8|
+dmartin1|90000519|Dorothy|Martin|100|90.00000|7|2024-09-05 19:29:33
+dmartin1|90000519|Dorothy|Martin|100||6|
+smoore1|90000517|Susan|Moore|74||8|
+smoore1|90000517|Susan|Moore|100|100.00000|7|2024-08-27 13:32:00
+smoore1|90000517|Susan|Moore|100||6|
+mjackson1|90000518|Margaret|Jackson|74||8|
+mjackson1|90000518|Margaret|Jackson|100|100.00000|7|2025-01-29 09:50:08
+mjackson1|90000518|Margaret|Jackson|100||6|
+mtaylor1|90000516|Maria|Taylor|74||8|
+mtaylor1|90000516|Maria|Taylor|100||7|
+mtaylor1|90000516|Maria|Taylor|100||6|
+sjones1|90000464|Sophia|Jones|74||8|
+sjones1|90000464|Sophia|Jones|100|90.00000|7|2024-08-29 19:58:06
+sjones1|90000464|Sophia|Jones|100||6|
+plopez1|90000511|Patricia|Lopez|74||8|
+plopez1|90000511|Patricia|Lopez|100|100.00000|7|2025-01-23 23:57:19
+plopez1|90000511|Patricia|Lopez|100||6|
+lmartinez1|90000509|Luna|Martinez|74||8|
+lmartinez1|90000509|Luna|Martinez|100|95.00000|7|2024-01-15 18:04:43
+lmartinez1|90000509|Luna|Martinez|100||6|
+mhernandez1|90000510|Mary|Hernandez|74||8|
+mhernandez1|90000510|Mary|Hernandez|100|90.00000|7|2024-09-10 09:45:52
+mhernandez1|90000510|Mary|Hernandez|100||6|
+adavis1|90000507|Ava|Davis|74||8|
+adavis1|90000507|Ava|Davis|100|100.00000|7|2024-09-03 08:09:45
+adavis1|90000507|Ava|Davis|100||6|
+imiller1|90000506|Isabella|Miller|74||8|
+imiller1|90000506|Isabella|Miller|100|90.00000|7|2025-01-28 18:12:30
+imiller1|90000506|Isabella|Miller|100||6|
+sjones1|90000504|Sophia|Jones|74||8|
+sjones1|90000504|Sophia|Jones|100|95.00000|7|2024-08-30 15:01:17
+sjones1|90000504|Sophia|Jones|100||6|
+ejohnson1|90000501|Emma|Johnson|74||8|
+ejohnson1|90000501|Emma|Johnson|100|90.00000|7|2024-08-25 11:26:14
+ejohnson1|90000501|Emma|Johnson|100||6|
+jjackson1|90000498|Joseph|Jackson|74||8|
+jjackson1|90000498|Joseph|Jackson|100|95.00000|7|2024-09-08 19:34:30
+jjackson1|90000498|Joseph|Jackson|100||6|
+rgonzales1|90000492|Robert|Gonzales|74||8|
+rgonzales1|90000492|Robert|Gonzales|100|95.00000|7|2025-01-26 17:36:17
+rgonzales1|90000492|Robert|Gonzales|100||6|
+mwilson1|90000493|Michael|Wilson|74||8|
+mwilson1|90000493|Michael|Wilson|100|90.00000|7|2025-01-21 17:25:03
+mwilson1|90000493|Michael|Wilson|100||6|
+lrodriguez1|90000488|Lucas|Rodriguez|74||8|
+lrodriguez1|90000488|Lucas|Rodriguez|100|90.00000|7|2024-09-02 11:40:10
+lrodriguez1|90000488|Lucas|Rodriguez|100||6|
+mgarcia1|90000485|Mateo|Garcia|74||8|
+mgarcia1|90000485|Mateo|Garcia|100|100.00000|7|2024-09-04 15:21:34
+mgarcia1|90000485|Mateo|Garcia|100||6|
+ejones1|90000484|Elijah|Jones|74||8|
+ejones1|90000484|Elijah|Jones|100|95.00000|7|2025-01-22 11:59:42
+ejones1|90000484|Elijah|Jones|100||6|
+owilliams1|90000482|Oliver|Williams|74||8|
+owilliams1|90000482|Oliver|Williams|100|95.00000|7|2024-08-28 15:37:50
+owilliams1|90000482|Oliver|Williams|100||6|
+jbrown1|90000483|James|Brown|74||8|
+jbrown1|90000483|James|Brown|100|100.00000|7|2025-01-19 22:08:21
+jbrown1|90000483|James|Brown|100||6|
+njohnson1|90000481|Noah|Johnson|74||8|
+njohnson1|90000481|Noah|Johnson|100|90.00000|7|2024-08-27 16:23:39
+njohnson1|90000481|Noah|Johnson|100||6|
+dmartin1|90000479|Dorothy|Martin|74||8|
+dmartin1|90000479|Dorothy|Martin|100|90.00000|7|2024-09-10 17:09:20
+dmartin1|90000479|Dorothy|Martin|100||6|
+mjackson1|90000478|Margaret|Jackson|74||8|
+mjackson1|90000478|Margaret|Jackson|100|90.00000|7|2025-01-28 14:38:59
+mjackson1|90000478|Margaret|Jackson|100||6|
+eanderson1|90000474|Elizabeth|Anderson|74||8|
+eanderson1|90000474|Elizabeth|Anderson|100|90.00000|7|2024-08-30 12:02:27
+eanderson1|90000474|Elizabeth|Anderson|100||6|
+lmartinez1|90000469|Luna|Martinez|74||8|
+lmartinez1|90000469|Luna|Martinez|100|100.00000|7|2024-08-27 19:41:11
+lmartinez1|90000469|Luna|Martinez|100||6|
+erodriguez1|90000468|Evelyn|Rodriguez|74||8|
+erodriguez1|90000468|Evelyn|Rodriguez|100|95.00000|7|2024-08-26 15:51:45
+erodriguez1|90000468|Evelyn|Rodriguez|100||6|
+adavis1|90000467|Ava|Davis|74||8|
+adavis1|90000467|Ava|Davis|100|90.00000|7|2024-09-05 09:26:53
+adavis1|90000467|Ava|Davis|100||6|
+imiller1|90000466|Isabella|Miller|74||8|
+imiller1|90000466|Isabella|Miller|100|90.00000|7|2025-01-25 13:46:45
+imiller1|90000466|Isabella|Miller|100||6|
+cwilliams1|90000462|Charlotte|Williams|74||8|
+cwilliams1|90000462|Charlotte|Williams|100|95.00000|7|2025-01-26 18:27:38
+cwilliams1|90000462|Charlotte|Williams|100||6|
+osmith1|90000460|Olivia|Smith|74||8|
+osmith1|90000460|Olivia|Smith|100|100.00000|7|2025-01-20 21:06:51
+osmith1|90000460|Olivia|Smith|100||6|
+ejohnson1|90000461|Emma|Johnson|74||8|
+ejohnson1|90000461|Emma|Johnson|100|90.00000|7|2025-01-22 15:18:52
+ejohnson1|90000461|Emma|Johnson|100||6|
+tmartin1|90000459|Thomas|Martin|74||8|
+tmartin1|90000459|Thomas|Martin|100|100.00000|7|2024-08-29 11:53:18
+tmartin1|90000459|Thomas|Martin|100||6|
+cmoore1|90000457|Charles|Moore|74||8|
+cmoore1|90000457|Charles|Moore|100|100.00000|7|2024-09-05 16:15:11
+cmoore1|90000457|Charles|Moore|100||6|
+jjackson1|90000458|Joseph|Jackson|74||8|
+jjackson1|90000458|Joseph|Jackson|100|95.00000|7|2025-01-19 22:22:45
+jjackson1|90000458|Joseph|Jackson|100||6|
+dthomas1|90000455|David|Thomas|74||8|
+dthomas1|90000455|David|Thomas|100|100.00000|7|2024-08-27 19:44:32
+dthomas1|90000455|David|Thomas|100||6|
+wanderson1|90000454|William|Anderson|74||8|
+wanderson1|90000454|William|Anderson|100||7|
+wanderson1|90000454|William|Anderson|100||6|
+mwilson1|90000453|Michael|Wilson|74||8|
+mwilson1|90000453|Michael|Wilson|100|90.00000|7|2024-08-27 21:15:07
+mwilson1|90000453|Michael|Wilson|100||6|
+jlopez1|90000451|John|Lopez|74||8|
+jlopez1|90000451|John|Lopez|100|90.00000|7|2025-01-22 14:02:10
+jlopez1|90000451|John|Lopez|100||6|
+jhernandez1|90000450|James|Hernandez|74||8|
+jhernandez1|90000450|James|Hernandez|100|90.00000|7|2024-08-27 19:34:00
+jhernandez1|90000450|James|Hernandez|100||6|
+wmartinez1|90000449|William|Martinez|74||8|
+wmartinez1|90000449|William|Martinez|100|90.00000|7|2024-08-27 14:40:23
+wmartinez1|90000449|William|Martinez|100||6|
+lrodriguez1|90000448|Lucas|Rodriguez|74||8|
+lrodriguez1|90000448|Lucas|Rodriguez|100|90.00000|7|2025-01-21 09:30:45
+lrodriguez1|90000448|Lucas|Rodriguez|100||6|
+mgarcia1|90000445|Mateo|Garcia|74||8|
+mgarcia1|90000445|Mateo|Garcia|100|100.00000|7|2025-01-18 19:53:04
+mgarcia1|90000445|Mateo|Garcia|100||6|
+tmiller1|90000446|Theodore|Miller|74||8|
+tmiller1|90000446|Theodore|Miller|100||7|
+tmiller1|90000446|Theodore|Miller|100||6|
+jbrown1|90000443|James|Brown|74||8|
+jbrown1|90000443|James|Brown|100|95.00000|7|2025-01-20 15:51:02
+jbrown1|90000443|James|Brown|100||6|
+owilliams1|90000442|Oliver|Williams|74||8|
+owilliams1|90000442|Oliver|Williams|100|95.00000|7|2025-01-19 20:56:50
+owilliams1|90000442|Oliver|Williams|100||6|
+njohnson1|90000441|Noah|Johnson|74||8|
+njohnson1|90000441|Noah|Johnson|100|100.00000|7|2024-08-24 21:41:34
+njohnson1|90000441|Noah|Johnson|100||6|
+mtaylor1|90000436|Maria|Taylor|74||8|
+mtaylor1|90000436|Maria|Taylor|100|90.00000|7|2024-01-18 19:57:56
+mtaylor1|90000436|Maria|Taylor|100||6|
+jthomas1|90000435|Jennifer|Thomas|74||8|
+jthomas1|90000435|Jennifer|Thomas|100|100.00000|7|2023-08-29 11:51:55
+jthomas1|90000435|Jennifer|Thomas|100||6|
+eanderson1|90000434|Elizabeth|Anderson|74||8|
+eanderson1|90000434|Elizabeth|Anderson|100||7|
+eanderson1|90000434|Elizabeth|Anderson|100||6|
+plopez1|90000431|Patricia|Lopez|74||8|
+plopez1|90000431|Patricia|Lopez|100|90.00000|7|2023-09-05 21:56:20
+plopez1|90000431|Patricia|Lopez|100||6|
+bwilson1|90000433|Barbara|Wilson|74||8|
+bwilson1|90000433|Barbara|Wilson|100|90.00000|7|2024-08-23 17:26:45
+bwilson1|90000433|Barbara|Wilson|100||6|
+lgonzales1|90000432|Linda|Gonzales|74||8|
+lgonzales1|90000432|Linda|Gonzales|100|90.00000|7|2025-01-23 08:56:20
+lgonzales1|90000432|Linda|Gonzales|100||6|
+adavis1|90000427|Ava|Davis|74||8|
+adavis1|90000427|Ava|Davis|100|90.00000|7|2024-08-25 12:58:12
+adavis1|90000427|Ava|Davis|100||6|
+erodriguez1|90000428|Evelyn|Rodriguez|74||8|
+erodriguez1|90000428|Evelyn|Rodriguez|100|95.00000|7|2025-01-26 14:51:38
+erodriguez1|90000428|Evelyn|Rodriguez|100||6|
+mgarcia1|90000425|Mia|Garcia|74||8|
+mgarcia1|90000425|Mia|Garcia|100|95.00000|7|2024-08-28 20:56:38
+mgarcia1|90000425|Mia|Garcia|100||6|
+sjones1|90000424|Sophia|Jones|74||8|
+sjones1|90000424|Sophia|Jones|100|100.00000|7|2024-09-09 09:08:53
+sjones1|90000424|Sophia|Jones|100||6|
+abrown1|90000423|Amelia|Brown|74||8|
+abrown1|90000423|Amelia|Brown|100|90.00000|7|2024-09-03 14:39:28
+abrown1|90000423|Amelia|Brown|100||6|
+cwilliams1|90000422|Charlotte|Williams|74||8|
+cwilliams1|90000422|Charlotte|Williams|100|100.00000|7|2025-01-18 21:00:26
+cwilliams1|90000422|Charlotte|Williams|100||6|
+ejohnson1|90000421|Emma|Johnson|74||8|
+ejohnson1|90000421|Emma|Johnson|100|90.00000|7|2025-01-18 15:08:00
+ejohnson1|90000421|Emma|Johnson|100||6|
+jjackson1|90000418|Joseph|Jackson|74||8|
+jjackson1|90000418|Joseph|Jackson|100|90.00000|7|2024-08-29 18:37:18
+jjackson1|90000418|Joseph|Jackson|100||6|
+cmoore1|90000417|Charles|Moore|74||8|
+cmoore1|90000417|Charles|Moore|100|95.00000|7|2025-01-21 13:11:45
+cmoore1|90000417|Charles|Moore|100||6|
+wanderson1|90000414|William|Anderson|74||8|
+wanderson1|90000414|William|Anderson|100|95.00000|7|2024-08-31 18:06:34
+wanderson1|90000414|William|Anderson|100||6|
+mwilson1|90000413|Michael|Wilson|74||8|
+mwilson1|90000413|Michael|Wilson|100|100.00000|7|2024-08-29 13:20:41
+mwilson1|90000413|Michael|Wilson|100||6|
+tmiller1|90000406|Theodore|Miller|74||8|
+tmiller1|90000406|Theodore|Miller|100|90.00000|7|2024-01-16 17:49:13
+tmiller1|90000406|Theodore|Miller|100||6|
+mgarcia1|90000405|Mateo|Garcia|74||8|
+mgarcia1|90000405|Mateo|Garcia|100|90.00000|7|2024-01-16 14:42:55
+mgarcia1|90000405|Mateo|Garcia|100||6|
+ejones1|90000404|Elijah|Jones|74||8|
+ejones1|90000404|Elijah|Jones|100|90.00000|7|2024-08-24 14:49:08
+ejones1|90000404|Elijah|Jones|100||6|
+owilliams1|90000402|Oliver|Williams|74||8|
+owilliams1|90000402|Oliver|Williams|100|95.00000|7|2023-09-12 18:08:26
+owilliams1|90000402|Oliver|Williams|100||6|
+lmartinez1|90000229|Luna|Martinez|74||8|
+lmartinez1|90000229|Luna|Martinez|100|95.00000|7|2025-01-22 18:15:08
+lmartinez1|90000229|Luna|Martinez|100||6|
+njohnson1|90000401|Noah|Johnson|74||8|
+njohnson1|90000401|Noah|Johnson|100|90.00000|7|2025-01-22 12:15:13
+njohnson1|90000401|Noah|Johnson|100||6|
+dmartin1|90000399|Dorothy|Martin|74||8|
+dmartin1|90000399|Dorothy|Martin|100|90.00000|7|2023-08-28 23:41:12
+dmartin1|90000399|Dorothy|Martin|100||6|
+mjackson1|90000398|Margaret|Jackson|74||8|
+mjackson1|90000398|Margaret|Jackson|100||7|
+mjackson1|90000398|Margaret|Jackson|100||6|
+smoore1|90000397|Susan|Moore|74||8|
+smoore1|90000397|Susan|Moore|100|95.00000|7|2023-08-29 16:44:27
+smoore1|90000397|Susan|Moore|100||6|
+mtaylor1|90000396|Maria|Taylor|74||8|
+mtaylor1|90000396|Maria|Taylor|100|100.00000|7|2025-01-22 10:11:55
+mtaylor1|90000396|Maria|Taylor|100||6|
+eanderson1|90000394|Elizabeth|Anderson|74||8|
+eanderson1|90000394|Elizabeth|Anderson|100|90.00000|7|2024-01-24 13:01:34
+eanderson1|90000394|Elizabeth|Anderson|100||6|
+plopez1|90000391|Patricia|Lopez|74||8|
+plopez1|90000391|Patricia|Lopez|100|100.00000|7|2025-01-26 22:13:06
+plopez1|90000391|Patricia|Lopez|100||6|
+lgonzales1|90000392|Linda|Gonzales|74||8|
+lgonzales1|90000392|Linda|Gonzales|100|90.00000|7|2025-01-26 22:18:25
+lgonzales1|90000392|Linda|Gonzales|100||6|
+bwilson1|90000393|Barbara|Wilson|74||8|
+bwilson1|90000393|Barbara|Wilson|100|100.00000|7|2025-01-26 21:10:24
+bwilson1|90000393|Barbara|Wilson|100||6|
+adavis1|90000387|Ava|Davis|74||8|
+adavis1|90000387|Ava|Davis|100|100.00000|7|2024-08-26 12:59:24
+adavis1|90000387|Ava|Davis|100||6|
+mgarcia1|90000385|Mia|Garcia|74||8|
+mgarcia1|90000385|Mia|Garcia|100|90.00000|7|2023-08-27 22:01:07
+mgarcia1|90000385|Mia|Garcia|100||6|
+sjones1|90000384|Sophia|Jones|74||8|
+sjones1|90000384|Sophia|Jones|100|95.00000|7|2024-08-25 21:44:24
+sjones1|90000384|Sophia|Jones|100||6|
+cwilliams1|90000382|Charlotte|Williams|74||8|
+cwilliams1|90000382|Charlotte|Williams|100||7|
+cwilliams1|90000382|Charlotte|Williams|100||6|
+ejohnson1|90000381|Emma|Johnson|74||8|
+ejohnson1|90000381|Emma|Johnson|100|90.00000|7|2024-08-25 23:24:59
+ejohnson1|90000381|Emma|Johnson|100||6|
+osmith1|90000380|Olivia|Smith|74||8|
+osmith1|90000380|Olivia|Smith|100|90.00000|7|2024-08-29 20:02:43
+osmith1|90000380|Olivia|Smith|100||6|
+tmartin1|90000379|Thomas|Martin|74||8|
+tmartin1|90000379|Thomas|Martin|100|90.00000|7|2025-01-25 11:50:39
+tmartin1|90000379|Thomas|Martin|100||6|
+jjackson1|90000378|Joseph|Jackson|74||8|
+jjackson1|90000378|Joseph|Jackson|100|90.00000|7|2023-08-28 17:00:32
+jjackson1|90000378|Joseph|Jackson|100||6|
+cmoore1|90000377|Charles|Moore|74||8|
+cmoore1|90000377|Charles|Moore|100|90.00000|7|2024-08-30 08:52:50
+cmoore1|90000377|Charles|Moore|100||6|
+rtaylor1|90000376|Richard|Taylor|74||8|
+rtaylor1|90000376|Richard|Taylor|100|100.00000|7|2025-01-23 16:53:41
+rtaylor1|90000376|Richard|Taylor|100||6|
+dthomas1|90000375|David|Thomas|74||8|
+dthomas1|90000375|David|Thomas|100|95.00000|7|2024-08-25 15:57:03
+dthomas1|90000375|David|Thomas|100||6|
+mwilson1|90000373|Michael|Wilson|74||8|
+mwilson1|90000373|Michael|Wilson|100|95.00000|7|2025-01-24 10:05:52
+mwilson1|90000373|Michael|Wilson|100||6|
+wanderson1|90000374|William|Anderson|74||8|
+wanderson1|90000374|William|Anderson|100|100.00000|7|2025-01-27 09:44:03
+wanderson1|90000374|William|Anderson|100||6|
+rgonzales1|90000372|Robert|Gonzales|74||8|
+rgonzales1|90000372|Robert|Gonzales|100|90.00000|7|2024-01-16 16:35:34
+rgonzales1|90000372|Robert|Gonzales|100||6|
+jlopez1|90000371|John|Lopez|74||8|
+jlopez1|90000371|John|Lopez|100||7|
+jlopez1|90000371|John|Lopez|100||6|
+wmartinez1|90000369|William|Martinez|74||8|
+wmartinez1|90000369|William|Martinez|100|90.00000|7|2023-08-27 18:04:15
+wmartinez1|90000369|William|Martinez|100||6|
+hdavis1|90000367|Henry|Davis|74||8|
+hdavis1|90000367|Henry|Davis|100|95.00000|7|2024-01-26 14:29:50
+hdavis1|90000367|Henry|Davis|100||6|
+tmiller1|90000366|Theodore|Miller|74||8|
+tmiller1|90000366|Theodore|Miller|100|95.00000|7|2023-08-28 15:40:46
+tmiller1|90000366|Theodore|Miller|100||6|
+jbrown1|90000363|James|Brown|74||8|
+jbrown1|90000363|James|Brown|100|100.00000|7|2025-01-22 11:51:40
+jbrown1|90000363|James|Brown|100||6|
+mgarcia1|90000365|Mateo|Garcia|74||8|
+mgarcia1|90000365|Mateo|Garcia|100|95.00000|7|2025-01-28 17:33:18
+mgarcia1|90000365|Mateo|Garcia|100||6|
+mjackson1|90000358|Margaret|Jackson|74||8|
+mjackson1|90000358|Margaret|Jackson|100|90.00000|7|2025-01-26 13:02:49
+mjackson1|90000358|Margaret|Jackson|100||6|
+lsmith1|90000360|Liam|Smith|74||8|
+lsmith1|90000360|Liam|Smith|100|90.00000|7|2024-01-18 12:49:42
+lsmith1|90000360|Liam|Smith|100||6|
+eanderson1|90000354|Elizabeth|Anderson|74||8|
+eanderson1|90000354|Elizabeth|Anderson|100|100.00000|7|2023-08-29 15:27:02
+eanderson1|90000354|Elizabeth|Anderson|100||6|
+bwilson1|90000353|Barbara|Wilson|74||8|
+bwilson1|90000353|Barbara|Wilson|100|90.00000|7|2025-01-22 12:34:33
+bwilson1|90000353|Barbara|Wilson|100||6|
+lgonzales1|90000352|Linda|Gonzales|74||8|
+lgonzales1|90000352|Linda|Gonzales|100|95.00000|7|2023-01-19 17:54:33
+lgonzales1|90000352|Linda|Gonzales|100||6|
+plopez1|90000351|Patricia|Lopez|74||8|
+plopez1|90000351|Patricia|Lopez|100|95.00000|7|2024-01-28 15:28:19
+plopez1|90000351|Patricia|Lopez|100||6|
+mhernandez1|90000350|Mary|Hernandez|74||8|
+mhernandez1|90000350|Mary|Hernandez|100|90.00000|7|2023-01-17 12:13:49
+mhernandez1|90000350|Mary|Hernandez|100|95.00000|6|2023-02-03 14:16:54
+erodriguez1|90000348|Evelyn|Rodriguez|74||8|
+erodriguez1|90000348|Evelyn|Rodriguez|100|95.00000|7|2024-01-18 19:29:26
+erodriguez1|90000348|Evelyn|Rodriguez|100||6|
+mwilson1|90000533|Michael|Wilson|74||8|
+mwilson1|90000533|Michael|Wilson|100|95.00000|7|2025-01-28 12:42:50
+mwilson1|90000533|Michael|Wilson|100||6|
+imiller1|90000346|Isabella|Miller|74||8|
+imiller1|90000346|Isabella|Miller|100|90.00000|7|2024-08-30 17:23:15
+imiller1|90000346|Isabella|Miller|100||6|
+adavis1|90000347|Ava|Davis|74||8|
+adavis1|90000347|Ava|Davis|100|90.00000|7|2025-01-29 10:06:48
+adavis1|90000347|Ava|Davis|100||6|
+cwilliams1|90000342|Charlotte|Williams|74||8|
+cwilliams1|90000342|Charlotte|Williams|100|100.00000|7|2025-01-22 18:52:00
+cwilliams1|90000342|Charlotte|Williams|100||6|
+abrown1|90000343|Amelia|Brown|74||8|
+abrown1|90000343|Amelia|Brown|100|90.00000|7|2025-01-22 16:50:34
+abrown1|90000343|Amelia|Brown|100||6|
+rgonzales1|90000332|Robert|Gonzales|74||8|
+rgonzales1|90000332|Robert|Gonzales|100|95.00000|7|2024-08-26 18:59:53
+rgonzales1|90000332|Robert|Gonzales|100||6|
+lrodriguez1|90000328|Lucas|Rodriguez|74||8|
+lrodriguez1|90000328|Lucas|Rodriguez|100|90.00000|7|2025-01-23 16:23:39
+lrodriguez1|90000328|Lucas|Rodriguez|100||6|
+bwilson1|90000313|Barbara|Wilson|74||8|
+bwilson1|90000313|Barbara|Wilson|100|95.00000|7|2024-08-27 07:35:50
+bwilson1|90000313|Barbara|Wilson|100||6|
+mgarcia1|90000305|Mia|Garcia|74||8|
+mgarcia1|90000305|Mia|Garcia|100|90.00000|7|2024-08-30 11:35:36
+mgarcia1|90000305|Mia|Garcia|100||6|
+ejohnson1|90000301|Emma|Johnson|74||8|
+ejohnson1|90000301|Emma|Johnson|100|95.00000|7|2024-09-10 21:48:23
+ejohnson1|90000301|Emma|Johnson|100||6|
+dthomas1|90000295|David|Thomas|74||8|
+dthomas1|90000295|David|Thomas|100|90.00000|7|2025-01-21 22:05:18
+dthomas1|90000295|David|Thomas|100||6|
+wanderson1|90000294|William|Anderson|74||8|
+wanderson1|90000294|William|Anderson|100|90.00000|7|2025-01-19 18:19:24
+wanderson1|90000294|William|Anderson|100||6|
+tmiller1|90000286|Theodore|Miller|74||8|
+tmiller1|90000286|Theodore|Miller|100|90.00000|7|2024-09-13 16:05:16
+tmiller1|90000286|Theodore|Miller|100||6|
+jthomas1|90000275|Jennifer|Thomas|74||8|
+jthomas1|90000275|Jennifer|Thomas|100|95.00000|7|2024-08-27 10:38:34
+jthomas1|90000275|Jennifer|Thomas|100||6|
+imiller1|90000266|Isabella|Miller|74||8|
+imiller1|90000266|Isabella|Miller|100|95.00000|7|2023-01-29 19:41:44
+imiller1|90000266|Isabella|Miller|100|95.00000|6|2023-01-29 19:32:45
+mgarcia1|90000265|Mia|Garcia|74||8|
+mgarcia1|90000265|Mia|Garcia|100|100.00000|7|2023-01-16 17:16:18
+mgarcia1|90000265|Mia|Garcia|100||6|
+jjackson1|90000258|Joseph|Jackson|74||8|
+jjackson1|90000258|Joseph|Jackson|100|90.00000|7|2024-01-17 10:40:16
+jjackson1|90000258|Joseph|Jackson|100||6|
+jhernandez1|90000250|James|Hernandez|74||8|
+jhernandez1|90000250|James|Hernandez|100|90.00000|7|2024-09-04 19:47:18
+jhernandez1|90000250|James|Hernandez|100||6|
+dmartin1|90000239|Dorothy|Martin|74||8|
+dmartin1|90000239|Dorothy|Martin|100|95.00000|7|2025-01-20 13:29:07
+dmartin1|90000239|Dorothy|Martin|100||6|
+jthomas1|90000235|Jennifer|Thomas|74||8|
+jthomas1|90000235|Jennifer|Thomas|100|90.00000|7|2023-01-23 16:01:35
+jthomas1|90000235|Jennifer|Thomas|100||6|
+osmith1|90000220|Olivia|Smith|74||8|
+osmith1|90000220|Olivia|Smith|100||7|
+osmith1|90000220|Olivia|Smith|100||6|
+cmoore1|90000217|Charles|Moore|74||8|
+cmoore1|90000217|Charles|Moore|100|90.00000|7|2024-08-27 23:17:44
+cmoore1|90000217|Charles|Moore|100||6|
+rtaylor1|90000216|Richard|Taylor|74||8|
+rtaylor1|90000216|Richard|Taylor|100|90.00000|7|2023-08-28 19:38:15
+rtaylor1|90000216|Richard|Taylor|100||6|
+tmiller1|90000206|Theodore|Miller|74||8|
+tmiller1|90000206|Theodore|Miller|100|95.00000|7|2024-01-21 17:11:13
+tmiller1|90000206|Theodore|Miller|100||6|
+mjackson1|90000198|Margaret|Jackson|74||8|
+mjackson1|90000198|Margaret|Jackson|100|90.00000|7|2023-09-05 21:01:59
+mjackson1|90000198|Margaret|Jackson|100||6|
+mtaylor1|90000196|Maria|Taylor|74||8|
+mtaylor1|90000196|Maria|Taylor|100|100.00000|7|2023-07-11 15:39:29
+mtaylor1|90000196|Maria|Taylor|100||6|
+jhernandez1|90000410|James|Hernandez|74||8|
+jhernandez1|90000410|James|Hernandez|100|90.00000|7|2025-01-26 23:08:20
+jhernandez1|90000410|James|Hernandez|100||6|
+tmartin1|90000179|Thomas|Martin|74||8|
+tmartin1|90000179|Thomas|Martin|100|90.00000|7|2024-08-30 12:06:03
+tmartin1|90000179|Thomas|Martin|100||6|
+mwilson1|90000173|Michael|Wilson|74||8|
+mwilson1|90000173|Michael|Wilson|100|90.00000|7|2023-08-30 10:03:25
+mwilson1|90000173|Michael|Wilson|100||6|
+mgarcia1|90000165|Mateo|Garcia|74||8|
+mgarcia1|90000165|Mateo|Garcia|100|100.00000|7|2022-01-24 09:30:49
+mgarcia1|90000165|Mateo|Garcia|100|100.00000|6|2023-01-24 01:39:31
+plopez1|90000151|Patricia|Lopez|74||8|
+plopez1|90000151|Patricia|Lopez|100|95.00000|7|2022-08-28 15:17:34
+plopez1|90000151|Patricia|Lopez|100||6|
+mhernandez1|90000150|Mary|Hernandez|74||8|
+mhernandez1|90000150|Mary|Hernandez|100|95.00000|7|2023-08-30 09:15:38
+mhernandez1|90000150|Mary|Hernandez|100||6|
+wanderson1|90000134|William|Anderson|74||8|
+wanderson1|90000134|William|Anderson|100|95.00000|7|2024-08-30 10:35:44
+wanderson1|90000134|William|Anderson|100||6|
+njohnson1|90000121|Noah|Johnson|74||8|
+njohnson1|90000121|Noah|Johnson|100|95.00000|7|2024-01-23 11:01:54
+njohnson1|90000121|Noah|Johnson|100|95.00000|6|2023-01-27 12:07:30
+mtaylor1|90000116|Maria|Taylor|74||8|
+mtaylor1|90000116|Maria|Taylor|100|90.00000|7|2022-09-02 08:31:41
+mtaylor1|90000116|Maria|Taylor|100||6|
+mgarcia1|90000105|Mia|Garcia|74||8|
+mgarcia1|90000105|Mia|Garcia|100|100.00000|7|2024-08-26 21:23:21
+mgarcia1|90000105|Mia|Garcia|100|95.00000|6|2023-02-07 19:40:26
+rgonzales1|90000092|Robert|Gonzales|74||8|
+rgonzales1|90000092|Robert|Gonzales|100|90.00000|7|2023-09-12 10:04:48
+rgonzales1|90000092|Robert|Gonzales|100||6|
+jhernandez1|90000090|James|Hernandez|74||8|
+jhernandez1|90000090|James|Hernandez|100|90.00000|7|2025-01-26 13:36:11
+jhernandez1|90000090|James|Hernandez|100||6|
+mjackson1|90000078|Margaret|Jackson|74||8|
+mjackson1|90000078|Margaret|Jackson|100|100.00000|7|2023-01-25 13:39:38
+mjackson1|90000078|Margaret|Jackson|100|90.00000|6|2023-01-25 13:30:05
+adavis1|90000067|Ava|Davis|74||8|
+adavis1|90000067|Ava|Davis|100|90.00000|7|2022-08-23 10:30:07
+adavis1|90000067|Ava|Davis|100||6|
+imiller1|90000066|Isabella|Miller|74||8|
+imiller1|90000066|Isabella|Miller|100|90.00000|7|2023-09-08 08:31:09
+imiller1|90000066|Isabella|Miller|100||6|
+rgonzales1|90000052|Robert|Gonzales|74||8|
+rgonzales1|90000052|Robert|Gonzales|100|90.00000|7|2022-08-29 14:18:08
+rgonzales1|90000052|Robert|Gonzales|100||6|
+mgarcia1|90000045|Mateo|Garcia|74||8|
+mgarcia1|90000045|Mateo|Garcia|100|100.00000|7|2022-08-23 22:13:54
+mgarcia1|90000045|Mateo|Garcia|100|95.00000|6|2023-01-23 23:54:44
+ejones1|90000044|Elijah|Jones|74||8|
+ejones1|90000044|Elijah|Jones|100|90.00000|7|2023-08-29 22:26:32
+ejones1|90000044|Elijah|Jones|100||6|
+jjackson1|90000018|Joseph|Jackson|74||8|
+jjackson1|90000018|Joseph|Jackson|100|95.00000|7|2024-01-16 21:20:30
+jjackson1|90000018|Joseph|Jackson|100||6|
+wanderson1|90000014|William|Anderson|74||8|
+wanderson1|90000014|William|Anderson|100|90.00000|7|2019-09-04 11:09:38
+wanderson1|90000014|William|Anderson|100||6|
+lrodriguez1|90000008|Lucas|Rodriguez|74||8|
+lrodriguez1|90000008|Lucas|Rodriguez|100|90.00000|7|2025-01-21 17:59:44
+lrodriguez1|90000008|Lucas|Rodriguez|100||6|
+tmiller1|90000006|Theodore|Miller|74||8|
+tmiller1|90000006|Theodore|Miller|100|95.00000|7|2019-08-30 17:01:09
+tmiller1|90000006|Theodore|Miller|100||6|
+wmartinez1|90000009|William|Martinez|74||8|
+wmartinez1|90000009|William|Martinez|100|90.00000|7|2024-01-16 17:26:41
+wmartinez1|90000009|William|Martinez|100||6|
+hdavis1|90000287|Henry|Davis|74||8|
+hdavis1|90000287|Henry|Davis|100|95.00000|7|2025-01-22 16:23:01
+hdavis1|90000287|Henry|Davis|100||6|
+plopez1|90000551|Patricia|Lopez|74||8|
+plopez1|90000551|Patricia|Lopez|100|90.00000|7|2025-01-21 13:15:44
+plopez1|90000551|Patricia|Lopez|100||6|
+lmartinez1|90000349|Luna|Martinez|74||8|
+lmartinez1|90000349|Luna|Martinez|100|90.00000|7|2025-01-22 16:28:25
+lmartinez1|90000349|Luna|Martinez|100||6|
+lgonzales1|90000312|Linda|Gonzales|74||8|
+lgonzales1|90000312|Linda|Gonzales|100||7|
+lgonzales1|90000312|Linda|Gonzales|100||6|
+jthomas1|90000035|Jennifer|Thomas|74||8|
+jthomas1|90000035|Jennifer|Thomas|100|100.00000|7|2024-09-04 15:20:07
+jthomas1|90000035|Jennifer|Thomas|100||6|
+jjackson1|90000058|Joseph|Jackson|74||8|
+jjackson1|90000058|Joseph|Jackson|100|95.00000|7|2023-01-17 08:53:31
+jjackson1|90000058|Joseph|Jackson|100||6|
+tmartin1|90000059|Thomas|Martin|74||8|
+tmartin1|90000059|Thomas|Martin|100|90.00000|7|2024-08-28 13:02:51
+tmartin1|90000059|Thomas|Martin|100||6|
+jhernandez1|90000130|James|Hernandez|74||8|
+jhernandez1|90000130|James|Hernandez|100|95.00000|7|2023-09-01 13:05:14
+jhernandez1|90000130|James|Hernandez|100||6|
+dmartin1|90000159|Dorothy|Martin|74||8|
+dmartin1|90000159|Dorothy|Martin|100|100.00000|7|2023-08-30 16:02:28
+dmartin1|90000159|Dorothy|Martin|100||6|
+erodriguez1|90000188|Evelyn|Rodriguez|74||8|
+erodriguez1|90000188|Evelyn|Rodriguez|100|95.00000|7|2024-09-02 15:48:48
+erodriguez1|90000188|Evelyn|Rodriguez|100||6|
+mjackson1|90000238|Margaret|Jackson|74||8|
+mjackson1|90000238|Margaret|Jackson|100|90.00000|7|2024-08-30 21:19:11
+mjackson1|90000238|Margaret|Jackson|100||6|
+owilliams1|90000242|Oliver|Williams|74||8|
+owilliams1|90000242|Oliver|Williams|100|95.00000|7|2024-09-04 21:24:18
+owilliams1|90000242|Oliver|Williams|100||6|
+jthomas1|90000395|Jennifer|Thomas|74||8|
+jthomas1|90000395|Jennifer|Thomas|100|90.00000|7|2024-09-12 12:53:42
+jthomas1|90000395|Jennifer|Thomas|100||6|
+cmoore1|90000577|Charles|Moore|74||8|
+cmoore1|90000577|Charles|Moore|100|90.00000|7|2024-09-09 13:30:33
+cmoore1|90000577|Charles|Moore|100||6|
+mgarcia1|90000525|Mateo|Garcia|74||8|
+mgarcia1|90000525|Mateo|Garcia|100|95.00000|7|2024-09-09 12:16:51
+mgarcia1|90000525|Mateo|Garcia|100||6|
+ejones1|90000564|Elijah|Jones|74||8|
+ejones1|90000564|Elijah|Jones|100|90.00000|7|2025-01-24 11:36:15
+ejones1|90000564|Elijah|Jones|100||6|
+eanderson1|90000034|Elizabeth|Anderson|74||8|
+eanderson1|90000034|Elizabeth|Anderson|100|100.00000|7|2022-01-31 19:59:54
+eanderson1|90000034|Elizabeth|Anderson|100||6|
+tmiller1|90000566|Theodore|Miller|74||8|
+tmiller1|90000566|Theodore|Miller|100|95.00000|7|2024-08-27 14:09:00
+tmiller1|90000566|Theodore|Miller|100||6|
+mgarcia1|90000345|Mia|Garcia|74||8|
+mgarcia1|90000345|Mia|Garcia|100||7|
+mgarcia1|90000345|Mia|Garcia|100||6|
+tmartin1|90000339|Thomas|Martin|74||8|
+tmartin1|90000339|Thomas|Martin|100|90.00000|7|2025-01-22 16:41:56
+tmartin1|90000339|Thomas|Martin|100||6|
+dthomas1|90000335|David|Thomas|74||8|
+dthomas1|90000335|David|Thomas|100|90.00000|7|2025-01-23 14:51:11
+dthomas1|90000335|David|Thomas|100||6|
+rtaylor1|90000336|Richard|Taylor|74||8|
+rtaylor1|90000336|Richard|Taylor|100|95.00000|7|2023-08-27 18:47:49
+rtaylor1|90000336|Richard|Taylor|100||6|
+cmoore1|90000337|Charles|Moore|74||8|
+cmoore1|90000337|Charles|Moore|100|90.00000|7|2025-01-20 20:43:54
+cmoore1|90000337|Charles|Moore|100||6|
+wmartinez1|90000329|William|Martinez|74||8|
+wmartinez1|90000329|William|Martinez|100|95.00000|7|2025-01-23 18:30:55
+wmartinez1|90000329|William|Martinez|100||6|
+owilliams1|90000322|Oliver|Williams|74||8|
+owilliams1|90000322|Oliver|Williams|100|95.00000|7|2025-01-24 18:16:07
+owilliams1|90000322|Oliver|Williams|100||6|
+mjackson1|90000318|Margaret|Jackson|74||8|
+mjackson1|90000318|Margaret|Jackson|100|90.00000|7|2023-09-11 22:55:10
+mjackson1|90000318|Margaret|Jackson|100||6|
+mtaylor1|90000316|Maria|Taylor|74||8|
+mtaylor1|90000316|Maria|Taylor|100|90.00000|7|2023-01-18 15:34:58
+mtaylor1|90000316|Maria|Taylor|100||6|
+njohnson1|90000321|Noah|Johnson|74||8|
+njohnson1|90000321|Noah|Johnson|100||7|
+njohnson1|90000321|Noah|Johnson|100||6|
+mhernandez1|90000310|Mary|Hernandez|74||8|
+mhernandez1|90000310|Mary|Hernandez|100|100.00000|7|2023-08-29 16:11:48
+mhernandez1|90000310|Mary|Hernandez|100||6|
+adavis1|90000307|Ava|Davis|74||8|
+adavis1|90000307|Ava|Davis|100|95.00000|7|2025-01-19 01:25:52
+adavis1|90000307|Ava|Davis|100||6|
+sjones1|90000304|Sophia|Jones|74||8|
+sjones1|90000304|Sophia|Jones|100|95.00000|7|2025-01-22 16:43:13
+sjones1|90000304|Sophia|Jones|100||6|
+cwilliams1|90000302|Charlotte|Williams|74||8|
+cwilliams1|90000302|Charlotte|Williams|100||7|
+cwilliams1|90000302|Charlotte|Williams|100||6|
+rtaylor1|90000296|Richard|Taylor|74||8|
+rtaylor1|90000296|Richard|Taylor|100|90.00000|7|2025-01-21 20:20:57
+rtaylor1|90000296|Richard|Taylor|100||6|
+osmith1|90000300|Olivia|Smith|74||8|
+osmith1|90000300|Olivia|Smith|100|90.00000|7|2024-09-04 20:50:32
+osmith1|90000300|Olivia|Smith|100||6|
+cmoore1|90000297|Charles|Moore|74||8|
+cmoore1|90000297|Charles|Moore|100|95.00000|7|2025-01-23 00:28:34
+cmoore1|90000297|Charles|Moore|100||6|
+tmartin1|90000299|Thomas|Martin|74||8|
+tmartin1|90000299|Thomas|Martin|100|100.00000|7|2024-08-29 22:13:56
+tmartin1|90000299|Thomas|Martin|100||6|
+jhernandez1|90000290|James|Hernandez|74||8|
+jhernandez1|90000290|James|Hernandez|100|95.00000|7|2023-08-27 13:57:18
+jhernandez1|90000290|James|Hernandez|100||6|
+jlopez1|90000291|John|Lopez|74||8|
+jlopez1|90000291|John|Lopez|100|90.00000|7|2024-08-27 16:44:06
+jlopez1|90000291|John|Lopez|100||6|
+wmartinez1|90000289|William|Martinez|74||8|
+wmartinez1|90000289|William|Martinez|100|95.00000|7|2025-01-23 19:34:34
+wmartinez1|90000289|William|Martinez|100||6|
+lrodriguez1|90000288|Lucas|Rodriguez|74||8|
+lrodriguez1|90000288|Lucas|Rodriguez|100|100.00000|7|2025-01-27 11:39:44
+lrodriguez1|90000288|Lucas|Rodriguez|100||6|
+ejones1|90000284|Elijah|Jones|74||8|
+ejones1|90000284|Elijah|Jones|100|90.00000|7|2025-01-28 20:20:01
+ejones1|90000284|Elijah|Jones|100||6|
+dmartin1|90000279|Dorothy|Martin|74||8|
+dmartin1|90000279|Dorothy|Martin|100|90.00000|7|2023-01-22 22:48:29
+dmartin1|90000279|Dorothy|Martin|100|90.00000|6|2023-01-22 22:44:42
+mtaylor1|90000276|Maria|Taylor|74||8|
+mtaylor1|90000276|Maria|Taylor|100|90.00000|7|2023-08-29 21:44:54
+mtaylor1|90000276|Maria|Taylor|100||6|
+bwilson1|90000273|Barbara|Wilson|74||8|
+bwilson1|90000273|Barbara|Wilson|100|100.00000|7|2025-01-22 13:40:23
+bwilson1|90000273|Barbara|Wilson|100||6|
+mhernandez1|90000270|Mary|Hernandez|74||8|
+mhernandez1|90000270|Mary|Hernandez|100|90.00000|7|2024-08-27 10:07:14
+mhernandez1|90000270|Mary|Hernandez|100||6|
+sjones1|90000264|Sophia|Jones|74||8|
+sjones1|90000264|Sophia|Jones|100||7|
+sjones1|90000264|Sophia|Jones|100||6|
+abrown1|90000263|Amelia|Brown|74||8|
+abrown1|90000263|Amelia|Brown|100|95.00000|7|2024-01-28 12:18:35
+abrown1|90000263|Amelia|Brown|100||6|
+cwilliams1|90000262|Charlotte|Williams|74||8|
+cwilliams1|90000262|Charlotte|Williams|100|90.00000|7|2023-01-26 21:26:08
+cwilliams1|90000262|Charlotte|Williams|100|90.00000|6|2023-01-26 21:35:12
+osmith1|90000260|Olivia|Smith|74||8|
+osmith1|90000260|Olivia|Smith|100|95.00000|7|2022-09-19 13:11:18
+osmith1|90000260|Olivia|Smith|100||6|
+tmartin1|90000259|Thomas|Martin|74||8|
+tmartin1|90000259|Thomas|Martin|100|95.00000|7|2024-01-17 23:30:16
+tmartin1|90000259|Thomas|Martin|100||6|
+rtaylor1|90000256|Richard|Taylor|74||8|
+rtaylor1|90000256|Richard|Taylor|100|95.00000|7|2024-08-29 11:20:54
+rtaylor1|90000256|Richard|Taylor|100||6|
+dthomas1|90000255|David|Thomas|74||8|
+dthomas1|90000255|David|Thomas|100|90.00000|7|2023-01-30 17:37:07
+dthomas1|90000255|David|Thomas|100|90.00000|6|2023-01-30 17:17:02
+wanderson1|90000254|William|Anderson|74||8|
+wanderson1|90000254|William|Anderson|100|90.00000|7|2023-09-06 11:22:30
+wanderson1|90000254|William|Anderson|100||6|
+rgonzales1|90000252|Robert|Gonzales|74||8|
+rgonzales1|90000252|Robert|Gonzales|100|100.00000|7|2025-01-26 18:13:09
+rgonzales1|90000252|Robert|Gonzales|100||6|
+jlopez1|90000251|John|Lopez|74||8|
+jlopez1|90000251|John|Lopez|100|95.00000|7|2022-09-02 23:25:39
+jlopez1|90000251|John|Lopez|100|90.00000|6|2023-01-24 14:31:12
+wmartinez1|90000249|William|Martinez|74||8|
+wmartinez1|90000249|William|Martinez|100|95.00000|7|2024-08-27 20:45:29
+wmartinez1|90000249|William|Martinez|100||6|
+mgarcia1|90000245|Mateo|Garcia|74||8|
+mgarcia1|90000245|Mateo|Garcia|100|90.00000|7|2024-09-09 18:56:53
+mgarcia1|90000245|Mateo|Garcia|100||6|
+ejones1|90000244|Elijah|Jones|74||8|
+ejones1|90000244|Elijah|Jones|100|90.00000|7|2023-01-17 15:06:24
+ejones1|90000244|Elijah|Jones|100||6|
+tmiller1|90000246|Theodore|Miller|74||8|
+tmiller1|90000246|Theodore|Miller|100|95.00000|7|2023-02-06 16:16:20
+tmiller1|90000246|Theodore|Miller|100|90.00000|6|2023-02-06 16:06:09
+lsmith1|90000240|Liam|Smith|74||8|
+lsmith1|90000240|Liam|Smith|100|90.00000|7|2025-01-24 21:31:22
+lsmith1|90000240|Liam|Smith|100||6|
+njohnson1|90000241|Noah|Johnson|74||8|
+njohnson1|90000241|Noah|Johnson|100||7|
+njohnson1|90000241|Noah|Johnson|100||6|
+erodriguez1|90000508|Evelyn|Rodriguez|74||8|
+erodriguez1|90000508|Evelyn|Rodriguez|100||7|
+erodriguez1|90000508|Evelyn|Rodriguez|100||6|
+smoore1|90000237|Susan|Moore|74||8|
+smoore1|90000237|Susan|Moore|100|90.00000|7|2024-08-29 12:33:09
+smoore1|90000237|Susan|Moore|100||6|
+lgonzales1|90000232|Linda|Gonzales|74||8|
+lgonzales1|90000232|Linda|Gonzales|100|90.00000|7|2024-08-28 19:07:43
+lgonzales1|90000232|Linda|Gonzales|100||6|
+mhernandez1|90000230|Mary|Hernandez|74||8|
+mhernandez1|90000230|Mary|Hernandez|100|90.00000|7|2025-01-25 19:55:17
+mhernandez1|90000230|Mary|Hernandez|100||6|
+adavis1|90000227|Ava|Davis|74||8|
+adavis1|90000227|Ava|Davis|100|100.00000|7|2023-08-27 05:29:41
+adavis1|90000227|Ava|Davis|100||6|
+mgarcia1|90000225|Mia|Garcia|74||8|
+mgarcia1|90000225|Mia|Garcia|100|100.00000|7|2024-08-27 09:43:27
+mgarcia1|90000225|Mia|Garcia|100||6|
+sjones1|90000224|Sophia|Jones|74||8|
+sjones1|90000224|Sophia|Jones|100|90.00000|7|2025-01-26 20:47:27
+sjones1|90000224|Sophia|Jones|100||6|
+cwilliams1|90000222|Charlotte|Williams|74||8|
+cwilliams1|90000222|Charlotte|Williams|100|95.00000|7|2024-01-14 13:09:40
+cwilliams1|90000222|Charlotte|Williams|100||6|
+dthomas1|90000215|David|Thomas|74||8|
+dthomas1|90000215|David|Thomas|100|90.00000|7|2025-01-20 15:40:04
+dthomas1|90000215|David|Thomas|100||6|
+mwilson1|90000213|Michael|Wilson|74||8|
+mwilson1|90000213|Michael|Wilson|100|90.00000|7|2023-08-30 20:44:36
+mwilson1|90000213|Michael|Wilson|100||6|
+rgonzales1|90000212|Robert|Gonzales|74||8|
+rgonzales1|90000212|Robert|Gonzales|100|90.00000|7|2024-08-28 14:51:51
+rgonzales1|90000212|Robert|Gonzales|100||6|
+jlopez1|90000211|John|Lopez|74||8|
+jlopez1|90000211|John|Lopez|100|100.00000|7|2023-08-29 23:59:55
+jlopez1|90000211|John|Lopez|100||6|
+jhernandez1|90000210|James|Hernandez|74||8|
+jhernandez1|90000210|James|Hernandez|100|95.00000|7|2024-07-08 09:12:39
+jhernandez1|90000210|James|Hernandez|100||6|
+wmartinez1|90000209|William|Martinez|74||8|
+wmartinez1|90000209|William|Martinez|100|75.00000|7|2025-01-28 10:53:57
+wmartinez1|90000209|William|Martinez|100||6|
+hdavis1|90000207|Henry|Davis|74||8|
+hdavis1|90000207|Henry|Davis|100|90.00000|7|2025-01-26 18:24:17
+hdavis1|90000207|Henry|Davis|100||6|
+lrodriguez1|90000208|Lucas|Rodriguez|74||8|
+lrodriguez1|90000208|Lucas|Rodriguez|100|90.00000|7|2024-09-02 09:07:51
+lrodriguez1|90000208|Lucas|Rodriguez|100||6|
+mgarcia1|90000205|Mateo|Garcia|74||8|
+mgarcia1|90000205|Mateo|Garcia|100|90.00000|7|2024-08-28 15:32:43
+mgarcia1|90000205|Mateo|Garcia|100|90.00000|6|2023-02-02 12:26:55
+ejones1|90000204|Elijah|Jones|74||8|
+ejones1|90000204|Elijah|Jones|100|100.00000|7|2023-08-29 21:08:00
+ejones1|90000204|Elijah|Jones|100||6|
+jbrown1|90000203|James|Brown|74||8|
+jbrown1|90000203|James|Brown|100|95.00000|7|2024-01-24 00:21:16
+jbrown1|90000203|James|Brown|100||6|
+owilliams1|90000202|Oliver|Williams|74||8|
+owilliams1|90000202|Oliver|Williams|100|95.00000|7|2023-09-05 10:23:02
+owilliams1|90000202|Oliver|Williams|100||6|
+lsmith1|90000200|Liam|Smith|74||8|
+lsmith1|90000200|Liam|Smith|100||7|
+lsmith1|90000200|Liam|Smith|100||6|
+lgonzales1|90000192|Linda|Gonzales|74||8|
+lgonzales1|90000192|Linda|Gonzales|100|95.00000|7|2024-01-25 17:56:30
+lgonzales1|90000192|Linda|Gonzales|100||6|
+bwilson1|90000193|Barbara|Wilson|74||8|
+bwilson1|90000193|Barbara|Wilson|100|100.00000|7|2023-01-22 10:47:00
+bwilson1|90000193|Barbara|Wilson|100|100.00000|6|2023-01-22 10:41:36
+eanderson1|90000194|Elizabeth|Anderson|74||8|
+eanderson1|90000194|Elizabeth|Anderson|100|100.00000|7|2022-08-22 13:32:38
+eanderson1|90000194|Elizabeth|Anderson|100||6|
+lmartinez1|90000189|Luna|Martinez|74||8|
+lmartinez1|90000189|Luna|Martinez|100|95.00000|7|2025-01-26 20:17:20
+lmartinez1|90000189|Luna|Martinez|100||6|
+mhernandez1|90000190|Mary|Hernandez|74||8|
+mhernandez1|90000190|Mary|Hernandez|100||7|
+mhernandez1|90000190|Mary|Hernandez|100||6|
+mgarcia1|90000185|Mia|Garcia|74||8|
+mgarcia1|90000185|Mia|Garcia|100|90.00000|7|2024-08-30 10:46:05
+mgarcia1|90000185|Mia|Garcia|100||6|
+sjones1|90000184|Sophia|Jones|74||8|
+sjones1|90000184|Sophia|Jones|100|95.00000|7|2025-01-29 09:42:38
+sjones1|90000184|Sophia|Jones|100||6|
+osmith1|90000180|Olivia|Smith|74||8|
+osmith1|90000180|Olivia|Smith|100|90.00000|7|2023-09-02 00:26:06
+osmith1|90000180|Olivia|Smith|100||6|
+cmoore1|90000177|Charles|Moore|74||8|
+cmoore1|90000177|Charles|Moore|100|95.00000|7|2023-01-25 15:07:26
+cmoore1|90000177|Charles|Moore|100|90.00000|6|2023-01-25 14:57:47
+rtaylor1|90000176|Richard|Taylor|74||8|
+rtaylor1|90000176|Richard|Taylor|100|90.00000|7|2024-01-21 09:38:14
+rtaylor1|90000176|Richard|Taylor|100||6|
+dthomas1|90000175|David|Thomas|74||8|
+dthomas1|90000175|David|Thomas|100||7|
+dthomas1|90000175|David|Thomas|100||6|
+wanderson1|90000174|William|Anderson|74||8|
+wanderson1|90000174|William|Anderson|100|90.00000|7|2022-08-27 01:07:11
+wanderson1|90000174|William|Anderson|100||6|
+tmiller1|90000166|Theodore|Miller|74||8|
+tmiller1|90000166|Theodore|Miller|100|100.00000|7|2022-01-24 16:31:05
+tmiller1|90000166|Theodore|Miller|100||6|
+hdavis1|90000167|Henry|Davis|74||8|
+hdavis1|90000167|Henry|Davis|100|90.00000|7|2024-09-08 22:30:07
+hdavis1|90000167|Henry|Davis|100||6|
+wmartinez1|90000169|William|Martinez|74||8|
+wmartinez1|90000169|William|Martinez|100|95.00000|7|2025-01-22 12:40:46
+wmartinez1|90000169|William|Martinez|100||6|
+ejones1|90000164|Elijah|Jones|74||8|
+ejones1|90000164|Elijah|Jones|100|90.00000|7|2024-09-04 12:31:04
+ejones1|90000164|Elijah|Jones|100||6|
+lsmith1|90000160|Liam|Smith|74||8|
+lsmith1|90000160|Liam|Smith|100|90.00000|7|2024-08-31 10:47:04
+lsmith1|90000160|Liam|Smith|100||6|
+mjackson1|90000158|Margaret|Jackson|74||8|
+mjackson1|90000158|Margaret|Jackson|100|90.00000|7|2021-08-24 10:01:21
+mjackson1|90000158|Margaret|Jackson|100||6|
+lgonzales1|90000152|Linda|Gonzales|74||8|
+lgonzales1|90000152|Linda|Gonzales|100|90.00000|7|2022-01-31 19:15:27
+lgonzales1|90000152|Linda|Gonzales|100|95.00000|6|2023-02-07 20:52:11
+jthomas1|90000155|Jennifer|Thomas|74||8|
+jthomas1|90000155|Jennifer|Thomas|100||7|
+jthomas1|90000155|Jennifer|Thomas|100||6|
+bwilson1|90000153|Barbara|Wilson|74||8|
+bwilson1|90000153|Barbara|Wilson|100|90.00000|7|2025-01-26 18:40:30
+bwilson1|90000153|Barbara|Wilson|100||6|
+lmartinez1|90000149|Luna|Martinez|74||8|
+lmartinez1|90000149|Luna|Martinez|100|90.00000|7|2023-01-23 01:07:04
+lmartinez1|90000149|Luna|Martinez|100|95.00000|6|2023-01-23 01:22:47
+adavis1|90000147|Ava|Davis|74||8|
+adavis1|90000147|Ava|Davis|100|95.00000|7|2025-01-21 16:43:21
+adavis1|90000147|Ava|Davis|100||6|
+sjones1|90000144|Sophia|Jones|74||8|
+sjones1|90000144|Sophia|Jones|100|95.00000|7|2022-03-22 15:49:33
+sjones1|90000144|Sophia|Jones|100||6|
+abrown1|90000143|Amelia|Brown|74||8|
+abrown1|90000143|Amelia|Brown|100|90.00000|7|2024-08-30 02:00:33
+abrown1|90000143|Amelia|Brown|100||6|
+cwilliams1|90000142|Charlotte|Williams|74||8|
+cwilliams1|90000142|Charlotte|Williams|100|100.00000|7|2024-08-27 19:00:52
+cwilliams1|90000142|Charlotte|Williams|100||6|
+ejohnson1|90000141|Emma|Johnson|74||8|
+ejohnson1|90000141|Emma|Johnson|100|95.00000|7|2023-09-12 18:20:02
+ejohnson1|90000141|Emma|Johnson|100||6|
+tmartin1|90000139|Thomas|Martin|74||8|
+tmartin1|90000139|Thomas|Martin|100|95.00000|7|2024-06-02 23:52:23
+tmartin1|90000139|Thomas|Martin|100||6|
+rgonzales1|90000132|Robert|Gonzales|74||8|
+rgonzales1|90000132|Robert|Gonzales|100|90.00000|7|2024-08-30 20:16:07
+rgonzales1|90000132|Robert|Gonzales|100||6|
+wmartinez1|90000129|William|Martinez|74||8|
+wmartinez1|90000129|William|Martinez|100||7|
+wmartinez1|90000129|William|Martinez|100||6|
+mgarcia1|90000125|Mateo|Garcia|74||8|
+mgarcia1|90000125|Mateo|Garcia|100|95.00000|7|2025-01-23 16:29:24
+mgarcia1|90000125|Mateo|Garcia|100||6|
+owilliams1|90000122|Oliver|Williams|74||8|
+owilliams1|90000122|Oliver|Williams|100|95.00000|7|2022-01-17 10:08:01
+owilliams1|90000122|Oliver|Williams|100||6|
+lsmith1|90000120|Liam|Smith|74||8|
+lsmith1|90000120|Liam|Smith|100|95.00000|7|2024-09-03 14:13:56
+lsmith1|90000120|Liam|Smith|100||6|
+mjackson1|90000118|Margaret|Jackson|74||8|
+mjackson1|90000118|Margaret|Jackson|100|95.00000|7|2022-02-21 09:20:39
+mjackson1|90000118|Margaret|Jackson|100||6|
+eanderson1|90000114|Elizabeth|Anderson|74||8|
+eanderson1|90000114|Elizabeth|Anderson|100|90.00000|7|2022-08-28 00:03:13
+eanderson1|90000114|Elizabeth|Anderson|100||6|
+lgonzales1|90000112|Linda|Gonzales|74||8|
+lgonzales1|90000112|Linda|Gonzales|100|95.00000|7|2024-08-24 20:16:44
+lgonzales1|90000112|Linda|Gonzales|100|90.00000|6|2023-02-01 12:02:53
+lmartinez1|90000109|Luna|Martinez|74||8|
+lmartinez1|90000109|Luna|Martinez|100|90.00000|7|2024-09-05 15:05:04
+lmartinez1|90000109|Luna|Martinez|100||6|
+imiller1|90000106|Isabella|Miller|74||8|
+imiller1|90000106|Isabella|Miller|100|90.00000|7|2023-01-23 22:48:29
+imiller1|90000106|Isabella|Miller|100|90.00000|6|2023-01-23 22:39:01
+ejohnson1|90000101|Emma|Johnson|74||8|
+ejohnson1|90000101|Emma|Johnson|100|90.00000|7|2022-08-22 08:47:20
+ejohnson1|90000101|Emma|Johnson|100||6|
+hdavis1|90000487|Henry|Davis|74||8|
+hdavis1|90000487|Henry|Davis|100|90.00000|7|2025-01-28 20:53:58
+hdavis1|90000487|Henry|Davis|100||6|
+osmith1|90000100|Olivia|Smith|74||8|
+osmith1|90000100|Olivia|Smith|100|100.00000|7|2023-07-10 15:33:19
+osmith1|90000100|Olivia|Smith|100||6|
+cmoore1|90000097|Charles|Moore|74||8|
+cmoore1|90000097|Charles|Moore|100|90.00000|7|2024-01-23 19:08:02
+cmoore1|90000097|Charles|Moore|100||6|
+tmartin1|90000099|Thomas|Martin|74||8|
+tmartin1|90000099|Thomas|Martin|100|90.00000|7|2022-08-22 12:59:18
+tmartin1|90000099|Thomas|Martin|100||6|
+wmartinez1|90000089|William|Martinez|74||8|
+wmartinez1|90000089|William|Martinez|100|90.00000|7|2025-01-19 21:01:17
+wmartinez1|90000089|William|Martinez|100||6|
+hdavis1|90000087|Henry|Davis|74||8|
+hdavis1|90000087|Henry|Davis|100|95.00000|7|2025-01-28 22:01:37
+hdavis1|90000087|Henry|Davis|100||6|
+erodriguez1|90000588|Evelyn|Rodriguez|74||8|
+erodriguez1|90000588|Evelyn|Rodriguez|100|95.00000|7|2025-01-23 21:16:22
+erodriguez1|90000588|Evelyn|Rodriguez|100||6|
+tmiller1|90000086|Theodore|Miller|74||8|
+tmiller1|90000086|Theodore|Miller|100|95.00000|7|2024-01-27 17:00:20
+tmiller1|90000086|Theodore|Miller|100||6|
+mgarcia1|90000085|Mateo|Garcia|74||8|
+mgarcia1|90000085|Mateo|Garcia|100|95.00000|7|2023-09-05 19:20:34
+mgarcia1|90000085|Mateo|Garcia|100||6|
+owilliams1|90000082|Oliver|Williams|74||8|
+owilliams1|90000082|Oliver|Williams|100|90.00000|7|2024-01-18 15:38:24
+owilliams1|90000082|Oliver|Williams|100||6|
+eanderson1|90000074|Elizabeth|Anderson|74||8|
+eanderson1|90000074|Elizabeth|Anderson|100|95.00000|7|2022-01-21 19:15:50
+eanderson1|90000074|Elizabeth|Anderson|100||6|
+mtaylor1|90000076|Maria|Taylor|74||8|
+mtaylor1|90000076|Maria|Taylor|100|90.00000|7|2024-09-04 20:13:23
+mtaylor1|90000076|Maria|Taylor|100||6|
+bwilson1|90000073|Barbara|Wilson|74||8|
+bwilson1|90000073|Barbara|Wilson|100|100.00000|7|2022-08-25 21:36:22
+bwilson1|90000073|Barbara|Wilson|100|100.00000|6|2023-02-07 16:35:35
+lgonzales1|90000072|Linda|Gonzales|74||8|
+lgonzales1|90000072|Linda|Gonzales|100|100.00000|7|2023-01-25 15:30:19
+lgonzales1|90000072|Linda|Gonzales|100|90.00000|6|2023-01-25 15:24:23
+erodriguez1|90000068|Evelyn|Rodriguez|74||8|
+erodriguez1|90000068|Evelyn|Rodriguez|100|90.00000|7|2020-08-16 12:32:39
+erodriguez1|90000068|Evelyn|Rodriguez|100||6|
+sjones1|90000064|Sophia|Jones|74||8|
+sjones1|90000064|Sophia|Jones|100|95.00000|7|2023-01-19 14:28:58
+sjones1|90000064|Sophia|Jones|100||6|
+wmartinez1|90000529|William|Martinez|74||8|
+wmartinez1|90000529|William|Martinez|100|90.00000|7|2025-01-22 15:10:43
+wmartinez1|90000529|William|Martinez|100||6|
+osmith1|90000060|Olivia|Smith|74||8|
+osmith1|90000060|Olivia|Smith|100|90.00000|7|2023-01-27 00:33:00
+osmith1|90000060|Olivia|Smith|100|90.00000|6|2023-01-31 23:59:24
+mgarcia1|90000505|Mia|Garcia|74||8|
+mgarcia1|90000505|Mia|Garcia|100|90.00000|7|2025-01-27 21:00:16
+mgarcia1|90000505|Mia|Garcia|100||6|
+owilliams1|90000522|Oliver|Williams|74||8|
+owilliams1|90000522|Oliver|Williams|100|100.00000|7|2025-01-21 13:36:23
+owilliams1|90000522|Oliver|Williams|100||6|
+rtaylor1|90000056|Richard|Taylor|74||8|
+rtaylor1|90000056|Richard|Taylor|100|95.00000|7|2022-09-11 15:02:56
+rtaylor1|90000056|Richard|Taylor|100||6|
+lsmith1|90000480|Liam|Smith|74||8|
+lsmith1|90000480|Liam|Smith|100||7|
+lsmith1|90000480|Liam|Smith|100||6|
+mwilson1|90000053|Michael|Wilson|74||8|
+mwilson1|90000053|Michael|Wilson|100|100.00000|7|2022-08-24 15:57:22
+mwilson1|90000053|Michael|Wilson|100||6|
+jlopez1|90000051|John|Lopez|74||8|
+jlopez1|90000051|John|Lopez|100|95.00000|7|2023-02-08 11:17:16
+jlopez1|90000051|John|Lopez|100|90.00000|6|2023-02-08 11:06:48
+jhernandez1|90000050|James|Hernandez|74||8|
+jhernandez1|90000050|James|Hernandez|100|90.00000|7|2024-01-16 13:36:40
+jhernandez1|90000050|James|Hernandez|100||6|
+hdavis1|90000047|Henry|Davis|74||8|
+hdavis1|90000047|Henry|Davis|100|100.00000|7|2022-08-29 13:31:14
+hdavis1|90000047|Henry|Davis|100||6|
+tmiller1|90000046|Theodore|Miller|74||8|
+tmiller1|90000046|Theodore|Miller|100|100.00000|7|2024-08-28 21:18:47
+tmiller1|90000046|Theodore|Miller|100||6|
+jbrown1|90000043|James|Brown|74||8|
+jbrown1|90000043|James|Brown|100|90.00000|7|2023-01-24 11:49:09
+jbrown1|90000043|James|Brown|100|100.00000|6|2023-01-24 11:44:59
+dmartin1|90000039|Dorothy|Martin|74||8|
+dmartin1|90000039|Dorothy|Martin|100|100.00000|7|2024-08-28 17:41:17
+dmartin1|90000039|Dorothy|Martin|100||6|
+plopez1|90000031|Patricia|Lopez|74||8|
+plopez1|90000031|Patricia|Lopez|100|95.00000|7|2022-01-20 16:36:02
+plopez1|90000031|Patricia|Lopez|100||6|
+imiller1|90000026|Isabella|Miller|74||8|
+imiller1|90000026|Isabella|Miller|100|100.00000|7|2021-02-02 12:20:12
+imiller1|90000026|Isabella|Miller|100||6|
+sjones1|90000024|Sophia|Jones|74||8|
+sjones1|90000024|Sophia|Jones|100|90.00000|7|2024-09-08 22:39:45
+sjones1|90000024|Sophia|Jones|100||6|
+cwilliams1|90000022|Charlotte|Williams|74||8|
+cwilliams1|90000022|Charlotte|Williams|100|100.00000|7|2021-02-01 19:57:11
+cwilliams1|90000022|Charlotte|Williams|100||6|
+osmith1|90000020|Olivia|Smith|74||8|
+osmith1|90000020|Olivia|Smith|100|90.00000|7|2019-01-28 15:46:06
+osmith1|90000020|Olivia|Smith|100||6|
+tmartin1|90000019|Thomas|Martin|74||8|
+tmartin1|90000019|Thomas|Martin|100|90.00000|7|2024-01-25 08:06:56
+tmartin1|90000019|Thomas|Martin|100||6|
+cmoore1|90000017|Charles|Moore|74||8|
+cmoore1|90000017|Charles|Moore|100|95.00000|7|2025-01-21 21:41:36
+cmoore1|90000017|Charles|Moore|100||6|
+rtaylor1|90000016|Richard|Taylor|74||8|
+rtaylor1|90000016|Richard|Taylor|100|100.00000|7|2024-01-21 22:46:18
+rtaylor1|90000016|Richard|Taylor|100||6|
+dthomas1|90000015|David|Thomas|74||8|
+dthomas1|90000015|David|Thomas|100|90.00000|7|2024-09-08 00:35:20
+dthomas1|90000015|David|Thomas|100||6|
+mwilson1|90000013|Michael|Wilson|74||8|
+mwilson1|90000013|Michael|Wilson|100|95.00000|7|2019-09-10 15:17:35
+mwilson1|90000013|Michael|Wilson|100||6|
+jlopez1|90000011|John|Lopez|74||8|
+jlopez1|90000011|John|Lopez|100|90.00000|7|2024-09-06 12:11:31
+jlopez1|90000011|John|Lopez|100||6|
+rgonzales1|90000012|Robert|Gonzales|74||8|
+rgonzales1|90000012|Robert|Gonzales|100|90.00000|7|2023-09-01 11:53:08
+rgonzales1|90000012|Robert|Gonzales|100||6|
+mgarcia1|90000005|Mateo|Garcia|74||8|
+mgarcia1|90000005|Mateo|Garcia|100|100.00000|7|2017-09-07 22:32:36
+mgarcia1|90000005|Mateo|Garcia|100||6|
+ejones1|90000004|Elijah|Jones|74||8|
+ejones1|90000004|Elijah|Jones|100|90.00000|7|2025-01-28 22:32:00
+ejones1|90000004|Elijah|Jones|100||6|
+owilliams1|90000002|Oliver|Williams|74||8|
+owilliams1|90000002|Oliver|Williams|100|100.00000|7|2022-08-26 09:03:47
+owilliams1|90000002|Oliver|Williams|100||6|
+njohnson1|90000001|Noah|Johnson|74||8|
+njohnson1|90000001|Noah|Johnson|100|85.00000|7|2025-01-20 22:25:12
+njohnson1|90000001|Noah|Johnson|100||6|
+mgarcia1|90000465|Mia|Garcia|74||8|
+mgarcia1|90000465|Mia|Garcia|100|90.00000|7|2025-01-19 14:30:56
+mgarcia1|90000465|Mia|Garcia|100||6|
+dthomas1|90000495|David|Thomas|74||8|
+dthomas1|90000495|David|Thomas|100|95.00000|7|2025-01-20 11:53:18
+dthomas1|90000495|David|Thomas|100||6|
+cwilliams1|90000102|Charlotte|Williams|74||8|
+cwilliams1|90000102|Charlotte|Williams|100|95.00000|7|2025-01-27 09:55:15
+cwilliams1|90000102|Charlotte|Williams|100||6|
+imiller1|90000186|Isabella|Miller|74||8|
+imiller1|90000186|Isabella|Miller|100|95.00000|7|2025-01-22 11:20:46
+imiller1|90000186|Isabella|Miller|100||6|
+jjackson1|90000178|Joseph|Jackson|74||8|
+jjackson1|90000178|Joseph|Jackson|100|90.00000|7|2025-01-28 12:07:21
+jjackson1|90000178|Joseph|Jackson|100||6|
+hdavis1|90000407|Henry|Davis|74||8|
+hdavis1|90000407|Henry|Davis|100|95.00000|7|2025-01-29 11:16:00
+hdavis1|90000407|Henry|Davis|100||6|
+jjackson1|90000138|Joseph|Jackson|74||8|
+jjackson1|90000138|Joseph|Jackson|100|90.00000|7|2024-08-27 22:55:02
+jjackson1|90000138|Joseph|Jackson|100||6|
+rtaylor1|90000496|Richard|Taylor|74||8|
+rtaylor1|90000496|Richard|Taylor|100|90.00000|7|2025-01-22 19:09:27
+rtaylor1|90000496|Richard|Taylor|100||6|
+ejohnson1|90000221|Emma|Johnson|74||8|
+ejohnson1|90000221|Emma|Johnson|100||7|
+ejohnson1|90000221|Emma|Johnson|100||6|
+jlopez1|90000131|John|Lopez|74||8|
+jlopez1|90000131|John|Lopez|100|90.00000|7|2025-01-21 21:55:38
+jlopez1|90000131|John|Lopez|100||6|
+jhernandez1|90000490|James|Hernandez|74||8|
+jhernandez1|90000490|James|Hernandez|100|95.00000|7|2025-01-23 14:10:13
+jhernandez1|90000490|James|Hernandez|100||6|
+mjackson1|90000438|Margaret|Jackson|74||8|
+mjackson1|90000438|Margaret|Jackson|100|95.00000|7|2025-01-27 22:59:21
+mjackson1|90000438|Margaret|Jackson|100||6|
+lgonzales1|90000592|Linda|Gonzales|74||8|
+lgonzales1|90000592|Linda|Gonzales|100||7|
+lgonzales1|90000592|Linda|Gonzales|100||6|
+ejohnson1|90000021|Emma|Johnson|74||8|
+ejohnson1|90000021|Emma|Johnson|100|100.00000|7|2024-01-17 15:37:48
+ejohnson1|90000021|Emma|Johnson|100||6|
+lmartinez1|90000029|Luna|Martinez|74||8|
+lmartinez1|90000029|Luna|Martinez|100|90.00000|7|2024-08-28 20:37:18
+lmartinez1|90000029|Luna|Martinez|100||6|
+lsmith1|90000040|Liam|Smith|74||8|
+lsmith1|90000040|Liam|Smith|100|100.00000|7|2024-01-23 12:54:04
+lsmith1|90000040|Liam|Smith|100||6|
+wmartinez1|90000049|William|Martinez|74||8|
+wmartinez1|90000049|William|Martinez|100|95.00000|7|2023-01-31 16:08:36
+wmartinez1|90000049|William|Martinez|100|95.00000|6|2023-01-31 16:05:57
+cmoore1|90000057|Charles|Moore|74||8|
+cmoore1|90000057|Charles|Moore|100|90.00000|7|2024-08-28 22:49:11
+cmoore1|90000057|Charles|Moore|100|90.00000|6|2023-01-22 20:02:07
+abrown1|90000063|Amelia|Brown|74||8|
+abrown1|90000063|Amelia|Brown|100|95.00000|7|2024-06-05 09:46:20
+abrown1|90000063|Amelia|Brown|100|95.00000|6|2023-02-03 12:34:24
+mhernandez1|90000070|Mary|Hernandez|74||8|
+mhernandez1|90000070|Mary|Hernandez|100|95.00000|7|2023-01-24 21:13:05
+mhernandez1|90000070|Mary|Hernandez|100|100.00000|6|2023-01-24 20:49:13
+smoore1|90000077|Susan|Moore|74||8|
+smoore1|90000077|Susan|Moore|100|90.00000|7|2021-08-23 18:08:17
+smoore1|90000077|Susan|Moore|100||6|
+jbrown1|90000083|James|Brown|74||8|
+jbrown1|90000083|James|Brown|100|100.00000|7|2024-08-28 11:56:07
+jbrown1|90000083|James|Brown|100||6|
+sjones1|90000104|Sophia|Jones|74||8|
+sjones1|90000104|Sophia|Jones|100|95.00000|7|2023-01-17 20:26:01
+sjones1|90000104|Sophia|Jones|100||6|
+cmoore1|90000497|Charles|Moore|74||8|
+cmoore1|90000497|Charles|Moore|100|100.00000|7|2025-01-19 15:28:02
+cmoore1|90000497|Charles|Moore|100||6|
+osmith1|90000140|Olivia|Smith|74||8|
+osmith1|90000140|Olivia|Smith|100|90.00000|7|2024-09-06 13:26:39
+osmith1|90000140|Olivia|Smith|100||6|
+mgarcia1|90000145|Mia|Garcia|74||8|
+mgarcia1|90000145|Mia|Garcia|100|100.00000|7|2022-08-31 20:27:18
+mgarcia1|90000145|Mia|Garcia|100|90.00000|6|2023-01-25 23:13:29
+eanderson1|90000154|Elizabeth|Anderson|74||8|
+eanderson1|90000154|Elizabeth|Anderson|100|90.00000|7|2024-01-17 13:13:21
+eanderson1|90000154|Elizabeth|Anderson|100||6|
+owilliams1|90000162|Oliver|Williams|74||8|
+owilliams1|90000162|Oliver|Williams|100|100.00000|7|2021-08-30 12:07:05
+owilliams1|90000162|Oliver|Williams|100||6|
+jlopez1|90000171|John|Lopez|74||8|
+jlopez1|90000171|John|Lopez|100|100.00000|7|2024-08-29 18:39:51
+jlopez1|90000171|John|Lopez|100||6|
+abrown1|90000183|Amelia|Brown|74||8|
+abrown1|90000183|Amelia|Brown|100|100.00000|7|2024-08-27 09:52:35
+abrown1|90000183|Amelia|Brown|100||6|
+osmith1|90000500|Olivia|Smith|74||8|
+osmith1|90000500|Olivia|Smith|100|95.00000|7|2024-08-26 22:32:25
+osmith1|90000500|Olivia|Smith|100||6|
+wanderson1|90000214|William|Anderson|74||8|
+wanderson1|90000214|William|Anderson|100|95.00000|7|2024-08-27 18:53:31
+wanderson1|90000214|William|Anderson|100||6|
+jjackson1|90000218|Joseph|Jackson|74||8|
+jjackson1|90000218|Joseph|Jackson|100|90.00000|7|2024-01-22 09:29:30
+jjackson1|90000218|Joseph|Jackson|100||6|
+plopez1|90000231|Patricia|Lopez|74||8|
+plopez1|90000231|Patricia|Lopez|100|90.00000|7|2023-08-27 20:13:36
+plopez1|90000231|Patricia|Lopez|100||6|
+erodriguez1|90000268|Evelyn|Rodriguez|74||8|
+erodriguez1|90000268|Evelyn|Rodriguez|100|95.00000|7|2024-09-10 20:26:09
+erodriguez1|90000268|Evelyn|Rodriguez|100||6|
+tmiller1|90000326|Theodore|Miller|74||8|
+tmiller1|90000326|Theodore|Miller|100|95.00000|7|2024-08-30 13:43:22
+tmiller1|90000326|Theodore|Miller|100||6|
+jhernandez1|90000330|James|Hernandez|74||8|
+jhernandez1|90000330|James|Hernandez|100|95.00000|7|2024-08-31 13:41:14
+jhernandez1|90000330|James|Hernandez|100||6|
+jjackson1|90000338|Joseph|Jackson|74||8|
+jjackson1|90000338|Joseph|Jackson|100|95.00000|7|2024-09-03 22:41:06
+jjackson1|90000338|Joseph|Jackson|100||6|
+sjones1|90000344|Sophia|Jones|74||8|
+sjones1|90000344|Sophia|Jones|100|95.00000|7|2025-01-20 13:05:52
+sjones1|90000344|Sophia|Jones|100||6|
+osmith1|90000420|Olivia|Smith|74||8|
+osmith1|90000420|Olivia|Smith|100|100.00000|7|2023-08-27 15:13:29
+osmith1|90000420|Olivia|Smith|100||6|
+lmartinez1|90000429|Luna|Martinez|74|58.00000|8|2024-01-21 09:56:18
+lmartinez1|90000429|Luna|Martinez|100|90.00000|7|2024-01-21 10:05:39
+lmartinez1|90000429|Luna|Martinez|100||6|
+jlopez1|90000411|John|Lopez|74||8|
+jlopez1|90000411|John|Lopez|100|100.00000|7|2024-09-03 22:31:20
+jlopez1|90000411|John|Lopez|100||6|
+adavis1|90000027|Ava|Davis|74||8|
+adavis1|90000027|Ava|Davis|100|90.00000|7|2021-08-23 15:31:35
+adavis1|90000027|Ava|Davis|100||6|
+mtaylor1|90000476|Maria|Taylor|74||8|
+mtaylor1|90000476|Maria|Taylor|100|90.00000|7|2024-08-26 07:45:38
+mtaylor1|90000476|Maria|Taylor|100||6|
+mhernandez1|90000470|Mary|Hernandez|74||8|
+mhernandez1|90000470|Mary|Hernandez|100|90.00000|7|2024-08-29 08:45:45
+mhernandez1|90000470|Mary|Hernandez|100||6|
+bwilson1|90000513|Barbara|Wilson|74||8|
+bwilson1|90000513|Barbara|Wilson|100|95.00000|7|2024-08-25 23:35:07
+bwilson1|90000513|Barbara|Wilson|100||6|
+wanderson1|90000534|William|Anderson|74||8|
+wanderson1|90000534|William|Anderson|100|90.00000|7|2024-08-30 12:11:17
+wanderson1|90000534|William|Anderson|100||6|
+cmoore1|90000537|Charles|Moore|74||8|
+cmoore1|90000537|Charles|Moore|100|100.00000|7|2025-01-20 20:02:32
+cmoore1|90000537|Charles|Moore|100||6|
+rtaylor1|90000416|Richard|Taylor|74||8|
+rtaylor1|90000416|Richard|Taylor|100|90.00000|7|2024-08-28 13:48:04
+rtaylor1|90000416|Richard|Taylor|100||6|
+lmartinez1|90000389|Luna|Martinez|74||8|
+lmartinez1|90000389|Luna|Martinez|100|90.00000|7|2025-01-22 17:54:30
+lmartinez1|90000389|Luna|Martinez|100||6|
+owilliams1|90000282|Oliver|Williams|74||8|
+owilliams1|90000282|Oliver|Williams|100|100.00000|7|2025-01-29 10:29:51
+owilliams1|90000282|Oliver|Williams|100||6|
+dmartin1|90000079|Dorothy|Martin|74||8|
+dmartin1|90000079|Dorothy|Martin|100|95.00000|7|2024-01-23 11:40:07
+dmartin1|90000079|Dorothy|Martin|100||6|
+adavis1|90000547|Ava|Davis|74||8|
+adavis1|90000547|Ava|Davis|100||7|
+adavis1|90000547|Ava|Davis|100||6|
+jlopez1|90000571|John|Lopez|74||8|
+jlopez1|90000571|John|Lopez|100|100.00000|7|2025-01-27 19:41:05
+jlopez1|90000571|John|Lopez|100||6|
+sjones1|90000584|Sophia|Jones|74||8|
+sjones1|90000584|Sophia|Jones|100|90.00000|7|2025-01-25 11:34:47
+sjones1|90000584|Sophia|Jones|100||6|
+abrown1|90000503|Amelia|Brown|74||8|
+abrown1|90000503|Amelia|Brown|100|90.00000|7|2024-08-29 09:55:13
+abrown1|90000503|Amelia|Brown|100||6|
+jbrown1|90000323|James|Brown|74||8|
+jbrown1|90000323|James|Brown|100|90.00000|7|2025-01-24 09:27:34
+jbrown1|90000323|James|Brown|100||6|
+rtaylor1|90000136|Richard|Taylor|74||8|
+rtaylor1|90000136|Richard|Taylor|100|100.00000|7|2025-01-24 12:45:27
+rtaylor1|90000136|Richard|Taylor|100||6|
+ejones1|90000444|Elijah|Jones|74||8|
+ejones1|90000444|Elijah|Jones|100|90.00000|7|2025-01-21 13:14:10
+ejones1|90000444|Elijah|Jones|100||6|
+osmith1|90000540|Olivia|Smith|74||8|
+osmith1|90000540|Olivia|Smith|100|100.00000|7|2024-08-27 12:26:05
+osmith1|90000540|Olivia|Smith|100||6|
+ejones1|90000324|Elijah|Jones|74||8|
+ejones1|90000324|Elijah|Jones|100|100.00000|7|2023-01-23 21:52:38
+ejones1|90000324|Elijah|Jones|100|95.00000|6|2023-01-23 21:50:01
+lgonzales1|90000512|Linda|Gonzales|74||8|
+lgonzales1|90000512|Linda|Gonzales|100|95.00000|7|2024-08-27 18:03:57
+lgonzales1|90000512|Linda|Gonzales|100||6|
+jthomas1|90000515|Jennifer|Thomas|74||8|
+jthomas1|90000515|Jennifer|Thomas|100|90.00000|7|2025-01-27 10:37:44
+jthomas1|90000515|Jennifer|Thomas|100||6|
+lrodriguez1|90000408|Lucas|Rodriguez|74||8|
+lrodriguez1|90000408|Lucas|Rodriguez|100|100.00000|7|2024-01-22 16:10:08
+lrodriguez1|90000408|Lucas|Rodriguez|100||6|
+cmoore1|90000137|Charles|Moore|74||8|
+cmoore1|90000137|Charles|Moore|100|90.00000|7|2024-01-22 21:33:18
+cmoore1|90000137|Charles|Moore|100||6|
+abrown1|90000103|Amelia|Brown|74||8|
+abrown1|90000103|Amelia|Brown|100|90.00000|7|2025-01-24 15:45:21
+abrown1|90000103|Amelia|Brown|100||6|
+imiller1|90000146|Isabella|Miller|74||8|
+imiller1|90000146|Isabella|Miller|100|90.00000|7|2022-02-02 11:08:09
+imiller1|90000146|Isabella|Miller|100||6|
+jhernandez1|90000010|James|Hernandez|74||8|
+jhernandez1|90000010|James|Hernandez|100|90.00000|7|2020-01-22 22:01:47
+jhernandez1|90000010|James|Hernandez|100||6|
+imiller1|90000226|Isabella|Miller|74||8|
+imiller1|90000226|Isabella|Miller|100||7|
+imiller1|90000226|Isabella|Miller|100||6|
+hdavis1|90000527|Henry|Davis|74||8|
+hdavis1|90000527|Henry|Davis|100|90.00000|7|2024-09-12 21:34:26
+hdavis1|90000527|Henry|Davis|100||6|
+dthomas1|90000575|David|Thomas|74||8|
+dthomas1|90000575|David|Thomas|100|95.00000|7|2025-01-29 09:14:35
+dthomas1|90000575|David|Thomas|100||6|
+smoore1|90000277|Susan|Moore|74||8|
+smoore1|90000277|Susan|Moore|100|95.00000|7|2025-01-26 20:08:08
+smoore1|90000277|Susan|Moore|100||6|
+ejohnson1|90000181|Emma|Johnson|74||8|
+ejohnson1|90000181|Emma|Johnson|100|90.00000|7|2025-01-29 10:05:59
+ejohnson1|90000181|Emma|Johnson|100||6|
+ejones1|90000524|Elijah|Jones|74||8|
+ejones1|90000524|Elijah|Jones|100|90.00000|7|2024-09-16 14:38:44
+ejones1|90000524|Elijah|Jones|100||6|
+lmartinez1|90000589|Luna|Martinez|74||8|
+lmartinez1|90000589|Luna|Martinez|100|95.00000|7|2025-01-26 23:25:52
+lmartinez1|90000589|Luna|Martinez|100||6|
+lgonzales1|90000472|Linda|Gonzales|74||8|
+lgonzales1|90000472|Linda|Gonzales|100|95.00000|7|2024-08-29 14:02:39
+lgonzales1|90000472|Linda|Gonzales|100||6|
+jhernandez1|90000170|James|Hernandez|74||8|
+jhernandez1|90000170|James|Hernandez|100|100.00000|7|2024-08-29 15:56:45
+jhernandez1|90000170|James|Hernandez|100||6|
+ejohnson1|90000581|Emma|Johnson|74||8|
+ejohnson1|90000581|Emma|Johnson|100|90.00000|7|2025-01-20 15:57:04
+ejohnson1|90000581|Emma|Johnson|100||6|
+plopez1|90000191|Patricia|Lopez|74||8|
+plopez1|90000191|Patricia|Lopez|100|90.00000|7|2024-08-28 13:36:59
+plopez1|90000191|Patricia|Lopez|100||6|
+smoore1|90000197|Susan|Moore|74||8|
+smoore1|90000197|Susan|Moore|100|95.00000|7|2025-01-21 12:00:54
+smoore1|90000197|Susan|Moore|100||6|
+plopez1|90000471|Patricia|Lopez|74||8|
+plopez1|90000471|Patricia|Lopez|100|90.00000|7|2024-08-25 16:35:21
+plopez1|90000471|Patricia|Lopez|100||6|
+njohnson1|90000041|Noah|Johnson|74||8|
+njohnson1|90000041|Noah|Johnson|100|90.00000|7|2025-01-29 13:10:30
+njohnson1|90000041|Noah|Johnson|100||6|
+lrodriguez1|90000368|Lucas|Rodriguez|74||8|
+lrodriguez1|90000368|Lucas|Rodriguez|100|90.00000|7|2024-09-13 09:04:41
+lrodriguez1|90000368|Lucas|Rodriguez|100||6|
+adavis1|90000107|Ava|Davis|74||8|
+adavis1|90000107|Ava|Davis|100|85.00000|7|2025-01-29 13:13:37
+adavis1|90000107|Ava|Davis|100||6|
+erodriguez1|90000228|Evelyn|Rodriguez|74||8|
+erodriguez1|90000228|Evelyn|Rodriguez|100|90.00000|7|2023-09-01 08:31:07
+erodriguez1|90000228|Evelyn|Rodriguez|100||6|
+mgarcia1|90000065|Mia|Garcia|74||8|
+mgarcia1|90000065|Mia|Garcia|100|100.00000|7|2022-08-24 17:16:35
+mgarcia1|90000065|Mia|Garcia|100||6|
+abrown1|90000023|Amelia|Brown|74||8|
+abrown1|90000023|Amelia|Brown|100|90.00000|7|2021-08-31 16:39:40
+abrown1|90000023|Amelia|Brown|100||6|
+mjackson1|90000558|Margaret|Jackson|74||8|
+mjackson1|90000558|Margaret|Jackson|100|100.00000|7|2024-09-03 17:40:00
+mjackson1|90000558|Margaret|Jackson|100||6|
+lsmith1|90000280|Liam|Smith|74||8|
+lsmith1|90000280|Liam|Smith|100|95.00000|7|2024-08-26 02:14:06
+lsmith1|90000280|Liam|Smith|100||6|
+mhernandez1|90000430|Mary|Hernandez|74||8|
+mhernandez1|90000430|Mary|Hernandez|100|100.00000|7|2024-01-16 21:37:56
+mhernandez1|90000430|Mary|Hernandez|100||6|
+rgonzales1|90000412|Robert|Gonzales|74||8|
+rgonzales1|90000412|Robert|Gonzales|100|100.00000|7|2023-08-29 18:19:29
+rgonzales1|90000412|Robert|Gonzales|100||6|
+osmith1|90000340|Olivia|Smith|74||8|
+osmith1|90000340|Olivia|Smith|100|90.00000|7|2023-08-27 20:02:21
+osmith1|90000340|Olivia|Smith|100||6|
+dmartin1|90000319|Dorothy|Martin|74||8|
+dmartin1|90000319|Dorothy|Martin|100|90.00000|7|2023-08-27 11:09:42
+dmartin1|90000319|Dorothy|Martin|100||6|
+mwilson1|90000293|Michael|Wilson|74||8|
+mwilson1|90000293|Michael|Wilson|100|90.00000|7|2025-01-23 15:10:45
+mwilson1|90000293|Michael|Wilson|100||6|
+jbrown1|90000283|James|Brown|74||8|
+jbrown1|90000283|James|Brown|100|95.00000|7|2023-08-31 11:15:54
+jbrown1|90000283|James|Brown|100||6|
+njohnson1|90000281|Noah|Johnson|74||8|
+njohnson1|90000281|Noah|Johnson|100|100.00000|7|2023-02-02 21:10:39
+njohnson1|90000281|Noah|Johnson|100|95.00000|6|2023-02-02 20:27:42
+cmoore1|90000257|Charles|Moore|74||8|
+cmoore1|90000257|Charles|Moore|100|95.00000|7|2023-01-19 15:29:37
+cmoore1|90000257|Charles|Moore|100||6|
+mtaylor1|90000236|Maria|Taylor|74||8|
+mtaylor1|90000236|Maria|Taylor|100|95.00000|7|2023-01-22 21:21:07
+mtaylor1|90000236|Maria|Taylor|100|100.00000|6|2023-01-22 21:28:31
+tmartin1|90000219|Thomas|Martin|74||8|
+tmartin1|90000219|Thomas|Martin|100|100.00000|7|2023-09-08 11:05:09
+tmartin1|90000219|Thomas|Martin|100||6|
+njohnson1|90000201|Noah|Johnson|74||8|
+njohnson1|90000201|Noah|Johnson|100|95.00000|7|2023-09-06 12:29:32
+njohnson1|90000201|Noah|Johnson|100||6|
+njohnson1|90000161|Noah|Johnson|74||8|
+njohnson1|90000161|Noah|Johnson|100|90.00000|7|2022-01-23 18:36:20
+njohnson1|90000161|Noah|Johnson|100||6|
+hdavis1|90000127|Henry|Davis|74||8|
+hdavis1|90000127|Henry|Davis|100|100.00000|7|2024-01-23 13:57:11
+hdavis1|90000127|Henry|Davis|100||6|
+dmartin1|90000119|Dorothy|Martin|74||8|
+dmartin1|90000119|Dorothy|Martin|100|95.00000|7|2024-01-20 14:20:21
+dmartin1|90000119|Dorothy|Martin|100||6|
+erodriguez1|90000108|Evelyn|Rodriguez|74||8|
+erodriguez1|90000108|Evelyn|Rodriguez|100|90.00000|7|2023-09-04 00:04:10
+erodriguez1|90000108|Evelyn|Rodriguez|100||6|
+dthomas1|90000095|David|Thomas|74||8|
+dthomas1|90000095|David|Thomas|100|95.00000|7|2022-01-26 17:41:17
+dthomas1|90000095|David|Thomas|100|80.00000|6|2023-01-25 13:47:34
+lmartinez1|90000069|Luna|Martinez|74||8|
+lmartinez1|90000069|Luna|Martinez|100|95.00000|7|2023-01-25 17:58:26
+lmartinez1|90000069|Luna|Martinez|100|100.00000|6|2023-01-25 17:54:59
+ejohnson1|90000061|Emma|Johnson|74||8|
+ejohnson1|90000061|Emma|Johnson|100|95.00000|7|2023-08-29 15:14:33
+ejohnson1|90000061|Emma|Johnson|100||6|
+lrodriguez1|90000048|Lucas|Rodriguez|74||8|
+lrodriguez1|90000048|Lucas|Rodriguez|100|90.00000|7|2021-08-24 10:51:53
+lrodriguez1|90000048|Lucas|Rodriguez|100|90.00000|6|2023-02-07 20:29:14
+mtaylor1|90000036|Maria|Taylor|74||8|
+mtaylor1|90000036|Maria|Taylor|100|90.00000|7|2022-09-11 16:13:59
+mtaylor1|90000036|Maria|Taylor|100||6|
+jbrown1|90000003|James|Brown|74||8|
+jbrown1|90000003|James|Brown|100|90.00000|7|2024-01-29 14:11:50
+jbrown1|90000003|James|Brown|100||6|
+jjackson1|90000298|Joseph|Jackson|74||8|
+jjackson1|90000298|Joseph|Jackson|100|90.00000|7|2024-01-16 13:12:23
+jjackson1|90000298|Joseph|Jackson|100||6|
+smoore1|90000357|Susan|Moore|74||8|
+smoore1|90000357|Susan|Moore|100|100.00000|7|2024-01-20 11:58:17
+smoore1|90000357|Susan|Moore|100||6|
+ejohnson1|90000261|Emma|Johnson|74||8|
+ejohnson1|90000261|Emma|Johnson|100|95.00000|7|2024-01-21 15:52:04
+ejohnson1|90000261|Emma|Johnson|100||6|
+jbrown1|90000403|James|Brown|74||8|
+jbrown1|90000403|James|Brown|100|100.00000|7|2024-01-18 13:37:37
+jbrown1|90000403|James|Brown|100||6|
+abrown1|90000303|Amelia|Brown|74||8|
+abrown1|90000303|Amelia|Brown|100|95.00000|7|2024-08-27 11:46:03
+abrown1|90000303|Amelia|Brown|100||6|
+abrown1|90000383|Amelia|Brown|74||8|
+abrown1|90000383|Amelia|Brown|100|95.00000|7|2024-01-25 16:21:48
+abrown1|90000383|Amelia|Brown|100||6|
+mgarcia1|90000025|Mia|Garcia|74||8|
+mgarcia1|90000025|Mia|Garcia|100|100.00000|7|2023-09-05 00:03:08
+mgarcia1|90000025|Mia|Garcia|100||6|
+mwilson1|90000333|Michael|Wilson|74||8|
+mwilson1|90000333|Michael|Wilson|100|95.00000|7|2024-01-23 16:57:46
+mwilson1|90000333|Michael|Wilson|100||6|
+tmartin1|90000419|Thomas|Martin|74||8|
+tmartin1|90000419|Thomas|Martin|100|95.00000|7|2024-01-17 17:34:28
+tmartin1|90000419|Thomas|Martin|100||6|
+imiller1|90000426|Isabella|Miller|74||8|
+imiller1|90000426|Isabella|Miller|100|90.00000|7|2024-01-17 14:54:41
+imiller1|90000426|Isabella|Miller|100||6|
+plopez1|90000311|Patricia|Lopez|74||8|
+plopez1|90000311|Patricia|Lopez|100|95.00000|7|2022-09-12 13:53:16
+plopez1|90000311|Patricia|Lopez|100||6|
+wanderson1|90000094|William|Anderson|74||8|
+wanderson1|90000094|William|Anderson|100|90.00000|7|2024-09-10 17:24:52
+wanderson1|90000094|William|Anderson|100|95.00000|6|2023-01-27 16:17:27
+smoore1|90000157|Susan|Moore|74||8|
+smoore1|90000157|Susan|Moore|100|90.00000|7|2023-01-25 18:38:56
+smoore1|90000157|Susan|Moore|100|90.00000|6|2023-01-25 18:25:06
+wanderson1|90000494|William|Anderson|74||8|
+wanderson1|90000494|William|Anderson|100|95.00000|7|2024-01-17 13:42:17
+wanderson1|90000494|William|Anderson|100||6|
+erodriguez1|90000308|Evelyn|Rodriguez|74||8|
+erodriguez1|90000308|Evelyn|Rodriguez|100|95.00000|7|2024-01-17 22:23:55
+erodriguez1|90000308|Evelyn|Rodriguez|100||6|
+hdavis1|90000007|Henry|Davis|74||8|
+hdavis1|90000007|Henry|Davis|100|90.00000|7|2022-07-16 13:55:56
+hdavis1|90000007|Henry|Davis|100||6|
+dthomas1|90000055|David|Thomas|74||8|
+dthomas1|90000055|David|Thomas|100|90.00000|7|2022-07-15 11:11:02
+dthomas1|90000055|David|Thomas|100||6|
+cwilliams1|90000062|Charlotte|Williams|74||8|
+cwilliams1|90000062|Charlotte|Williams|100|100.00000|7|2022-01-19 22:19:54
+cwilliams1|90000062|Charlotte|Williams|100||6|
+plopez1|90000071|Patricia|Lopez|74||8|
+plopez1|90000071|Patricia|Lopez|100|100.00000|7|2024-08-23 14:47:09
+plopez1|90000071|Patricia|Lopez|100|40.00000|6|2023-01-24 18:39:00
+jthomas1|90000075|Jennifer|Thomas|74||8|
+jthomas1|90000075|Jennifer|Thomas|100|100.00000|7|2020-08-18 14:38:51
+jthomas1|90000075|Jennifer|Thomas|100||6|
+ejones1|90000084|Elijah|Jones|74||8|
+ejones1|90000084|Elijah|Jones|100|95.00000|7|2023-08-29 20:52:08
+ejones1|90000084|Elijah|Jones|100||6|
+mwilson1|90000093|Michael|Wilson|74||8|
+mwilson1|90000093|Michael|Wilson|100|95.00000|7|2023-08-25 16:20:12
+mwilson1|90000093|Michael|Wilson|100||6|
+rtaylor1|90000096|Richard|Taylor|74||8|
+rtaylor1|90000096|Richard|Taylor|100|90.00000|7|2022-01-26 12:18:06
+rtaylor1|90000096|Richard|Taylor|100||6|
+smoore1|90000117|Susan|Moore|74||8|
+smoore1|90000117|Susan|Moore|100|95.00000|7|2021-08-28 21:53:14
+smoore1|90000117|Susan|Moore|100||6|
+ejones1|90000124|Elijah|Jones|74||8|
+ejones1|90000124|Elijah|Jones|100|95.00000|7|2022-01-19 11:25:39
+ejones1|90000124|Elijah|Jones|100||6|
+dthomas1|90000135|David|Thomas|74||8|
+dthomas1|90000135|David|Thomas|100|90.00000|7|2024-09-05 11:18:13
+dthomas1|90000135|David|Thomas|100||6|
+abrown1|90000223|Amelia|Brown|74||8|
+abrown1|90000223|Amelia|Brown|100|95.00000|7|2023-08-30 16:21:01
+abrown1|90000223|Amelia|Brown|100||6|
+bwilson1|90000233|Barbara|Wilson|74||8|
+bwilson1|90000233|Barbara|Wilson|100|95.00000|7|2024-09-01 12:24:29
+bwilson1|90000233|Barbara|Wilson|100||6|
+lrodriguez1|90000248|Lucas|Rodriguez|74||8|
+lrodriguez1|90000248|Lucas|Rodriguez|100|95.00000|7|2023-08-28 13:30:57
+lrodriguez1|90000248|Lucas|Rodriguez|100||6|
+lmartinez1|90000309|Luna|Martinez|74||8|
+lmartinez1|90000309|Luna|Martinez|100|90.00000|7|2023-08-29 10:28:31
+lmartinez1|90000309|Luna|Martinez|100||6|
+jlopez1|90000331|John|Lopez|74||8|
+jlopez1|90000331|John|Lopez|100|95.00000|7|2024-08-27 22:23:13
+jlopez1|90000331|John|Lopez|100||6|
+imiller1|90000386|Isabella|Miller|74||8|
+imiller1|90000386|Isabella|Miller|100|90.00000|7|2023-08-27 23:42:36
+imiller1|90000386|Isabella|Miller|100||6|
+erodriguez1|90000388|Evelyn|Rodriguez|74||8|
+erodriguez1|90000388|Evelyn|Rodriguez|100|90.00000|7|2023-08-31 22:30:09
+erodriguez1|90000388|Evelyn|Rodriguez|100||6|
+wmartinez1|90000409|William|Martinez|74||8|
+wmartinez1|90000409|William|Martinez|100|100.00000|7|2023-09-06 15:08:22
+wmartinez1|90000409|William|Martinez|100||6|
+plopez1|90000111|Patricia|Lopez|74||8|
+plopez1|90000111|Patricia|Lopez|100|95.00000|7|2024-08-28 10:28:27
+plopez1|90000111|Patricia|Lopez|100||6|
+lrodriguez1|90000128|Lucas|Rodriguez|74||8|
+lrodriguez1|90000128|Lucas|Rodriguez|100|95.00000|7|2024-01-28 23:55:09
+lrodriguez1|90000128|Lucas|Rodriguez|100||6|
+mwilson1|90000133|Michael|Wilson|74||8|
+mwilson1|90000133|Michael|Wilson|100|95.00000|7|2022-09-13 22:34:45
+mwilson1|90000133|Michael|Wilson|100||6|
+tmiller1|90000126|Theodore|Miller|74||8|
+tmiller1|90000126|Theodore|Miller|100|90.00000|7|2024-01-22 00:30:28
+tmiller1|90000126|Theodore|Miller|100||6|
+mhernandez1|90000110|Mary|Hernandez|74||8|
+mhernandez1|90000110|Mary|Hernandez|100|90.00000|7|2023-01-20 01:16:26
+mhernandez1|90000110|Mary|Hernandez|100||6|
+lsmith1|90000400|Liam|Smith|74||8|
+lsmith1|90000400|Liam|Smith|100|90.00000|7|2023-09-01 22:27:43
+lsmith1|90000400|Liam|Smith|100||6|
+jbrown1|90000163|James|Brown|74||8|
+jbrown1|90000163|James|Brown|100|95.00000|7|2022-01-28 15:07:29
+jbrown1|90000163|James|Brown|100||6|
+cwilliams1|90000182|Charlotte|Williams|74||8|
+cwilliams1|90000182|Charlotte|Williams|100|90.00000|7|2023-08-30 18:25:29
+cwilliams1|90000182|Charlotte|Williams|100||6|
+lsmith1|90000320|Liam|Smith|74||8|
+lsmith1|90000320|Liam|Smith|100|95.00000|7|2023-09-02 15:57:05
+lsmith1|90000320|Liam|Smith|100||6|
+mjackson1|90000278|Margaret|Jackson|74||8|
+mjackson1|90000278|Margaret|Jackson|100|90.00000|7|2024-01-25 17:11:18
+mjackson1|90000278|Margaret|Jackson|100||6|
+mjackson1|90000038|Margaret|Jackson|74||8|
+mjackson1|90000038|Margaret|Jackson|100|90.00000|7|2022-08-31 11:39:08
+mjackson1|90000038|Margaret|Jackson|100|90.00000|6|2023-02-02 20:50:20
+jjackson1|90000098|Joseph|Jackson|74||8|
+jjackson1|90000098|Joseph|Jackson|100|95.00000|7|2024-01-25 01:27:47
+jjackson1|90000098|Joseph|Jackson|100||6|
+dthomas1|90000415|David|Thomas|74||8|
+dthomas1|90000415|David|Thomas|100|90.00000|7|2024-06-03 00:27:15
+dthomas1|90000415|David|Thomas|100||6|
+dmartin1|90000199|Dorothy|Martin|74||8|
+dmartin1|90000199|Dorothy|Martin|100|90.00000|7|2023-01-27 08:35:14
+dmartin1|90000199|Dorothy|Martin|100|90.00000|6|2023-01-28 18:01:29
+abrown1|90000463|Amelia|Brown|74||8|
+abrown1|90000463|Amelia|Brown|100|90.00000|7|2024-01-20 22:05:46
+abrown1|90000463|Amelia|Brown|100||6|
+jthomas1|90000555|Jennifer|Thomas|74||8|
+jthomas1|90000555|Jennifer|Thomas|100|90.00000|7|2024-09-08 15:20:12
+jthomas1|90000555|Jennifer|Thomas|100||6|
+adavis1|90000187|Ava|Davis|74||8|
+adavis1|90000187|Ava|Davis|100|90.00000|7|2023-09-03 21:49:22
+adavis1|90000187|Ava|Davis|100||6|
+smoore1|90000037|Susan|Moore|74||8|
+smoore1|90000037|Susan|Moore|100|100.00000|7|2023-08-30 22:48:52
+smoore1|90000037|Susan|Moore|100||6|
+ejones1|90000364|Elijah|Jones|74||8|
+ejones1|90000364|Elijah|Jones|100|90.00000|7|2024-08-28 20:52:43
+ejones1|90000364|Elijah|Jones|100||6|
+jthomas1|90000355|Jennifer|Thomas|74||8|
+jthomas1|90000355|Jennifer|Thomas|100|95.00000|7|2023-08-25 17:15:28
+jthomas1|90000355|Jennifer|Thomas|100||6|
+mgarcia1|90000325|Mateo|Garcia|74||8|
+mgarcia1|90000325|Mateo|Garcia|100|95.00000|7|2024-01-23 13:06:03
+mgarcia1|90000325|Mateo|Garcia|100||6|
+smoore1|90000317|Susan|Moore|74||8|
+smoore1|90000317|Susan|Moore|100|90.00000|7|2023-08-27 15:30:32
+smoore1|90000317|Susan|Moore|100||6|
+ejohnson1|90000341|Emma|Johnson|74||8|
+ejohnson1|90000341|Emma|Johnson|100|95.00000|7|2023-08-27 17:02:21
+ejohnson1|90000341|Emma|Johnson|100||6|
+jlopez1|90000091|John|Lopez|74||8|
+jlopez1|90000091|John|Lopez|100|100.00000|7|2023-08-30 22:34:16
+jlopez1|90000091|John|Lopez|100||6|
+lrodriguez1|90000168|Lucas|Rodriguez|74||8|
+lrodriguez1|90000168|Lucas|Rodriguez|100|90.00000|7|2025-01-26 20:14:07
+lrodriguez1|90000168|Lucas|Rodriguez|100||6|
+hdavis1|90000447|Henry|Davis|74||8|
+hdavis1|90000447|Henry|Davis|100|100.00000|7|2024-08-30 22:20:38
+hdavis1|90000447|Henry|Davis|100||6|
+hdavis1|90000327|Henry|Davis|74||8|
+hdavis1|90000327|Henry|Davis|100|90.00000|7|2024-09-05 15:02:56
+hdavis1|90000327|Henry|Davis|100||6|
+dthomas1|90000535|David|Thomas|74||8|
+dthomas1|90000535|David|Thomas|100|90.00000|7|2024-10-30 12:19:37
+dthomas1|90000535|David|Thomas|100||6|
+dmartin1|90000359|Dorothy|Martin|74||8|
+dmartin1|90000359|Dorothy|Martin|100|90.00000|7|2024-09-03 10:19:46
+dmartin1|90000359|Dorothy|Martin|100||6|
+mtaylor1|90000356|Maria|Taylor|74||8|
+mtaylor1|90000356|Maria|Taylor|100|90.00000|7|2023-08-29 21:02:42
+mtaylor1|90000356|Maria|Taylor|100||6|
+wanderson1|90000574|William|Anderson|74||8|
+wanderson1|90000574|William|Anderson|100|95.00000|7|2024-08-26 12:00:05
+wanderson1|90000574|William|Anderson|100||6|
+lgonzales1|90000032|Linda|Gonzales|74||8|
+lgonzales1|90000032|Linda|Gonzales|100|90.00000|7|2019-01-28 23:59:26
+lgonzales1|90000032|Linda|Gonzales|100|90.00000|6|2023-01-21 16:21:42
+plopez1|90000271|Patricia|Lopez|74||8|
+plopez1|90000271|Patricia|Lopez|100|90.00000|7|2024-08-29 19:05:15
+plopez1|90000271|Patricia|Lopez|100||6|
+jbrown1|90000123|James|Brown|74||8|
+jbrown1|90000123|James|Brown|100|95.00000|7|2022-08-22 14:55:17
+jbrown1|90000123|James|Brown|100||6|
+bwilson1|90000113|Barbara|Wilson|74||8|
+bwilson1|90000113|Barbara|Wilson|100|90.00000|7|2021-09-02 11:16:33
+bwilson1|90000113|Barbara|Wilson|100||6|
+owilliams1|90000042|Oliver|Williams|74||8|
+owilliams1|90000042|Oliver|Williams|100|100.00000|7|2021-01-25 17:43:02
+owilliams1|90000042|Oliver|Williams|100||6|
+lgonzales1|90000272|Linda|Gonzales|74||8|
+lgonzales1|90000272|Linda|Gonzales|100|90.00000|7|2025-01-22 12:56:39
+lgonzales1|90000272|Linda|Gonzales|100||6|
+eanderson1|90000274|Elizabeth|Anderson|74||8|
+eanderson1|90000274|Elizabeth|Anderson|100|90.00000|7|2023-01-16 22:59:11
+eanderson1|90000274|Elizabeth|Anderson|100||6|
+smoore1|90000437|Susan|Moore|74||8|
+smoore1|90000437|Susan|Moore|100|90.00000|7|2023-09-06 21:21:34
+smoore1|90000437|Susan|Moore|100||6|
